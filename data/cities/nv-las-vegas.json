@@ -1,0 +1,334 @@
+{
+  "slug": "nv-las-vegas",
+  "city": "Las Vegas",
+  "citySlug": "las-vegas",
+  "state": "NV",
+  "stateName": "Nevada",
+  "focus": "Las Vegas valley, including Henderson",
+  "lastUpdated": "2026-11-18",
+  "intro": "These Las Vegas–area listings were checked on operator-owned depot or rental pages on November 18, 2026. Las Vegas is a major RV gateway for Zion, the Grand Canyon, Death Valley, and festivals such as EDC, and several national fleets publish depots here alongside local operators. Hours are copied from each operator’s page for the current (winter) season, with summer hours in the notes; El Monte RV and Road Bear RV publish the same Boulder Highway address on separate official pages, and two depots (Cruise America and Indie Campers) are in Henderson. One-way, pet, and delivery flags are set only when the operator’s own page says so. This is a starting sample, not a valley-wide inventory, and it does not cache live RV availability. Peer-to-peer platforms such as RVshare and Outdoorsy show live inventory for a specific weekend. If a price appears, it is labeled as listed on a date.",
+  "listings": [
+    {
+      "name": "Cruise America — Las Vegas (Henderson)",
+      "area": "Henderson",
+      "address": "551 N. Gibson Rd, Henderson, NV 89011",
+      "phone": "(702) 565-2224",
+      "website": "https://www.cruiseamerica.com/rv-rental-locations/nevada/las-vegas",
+      "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/nevada/las-vegas",
+      "hours": {
+        "monday": "8:30 AM – 5:00 PM",
+        "tuesday": "8:30 AM – 5:00 PM",
+        "wednesday": "8:30 AM – 5:00 PM",
+        "thursday": "8:30 AM – 5:00 PM",
+        "friday": "8:30 AM – 5:00 PM",
+        "saturday": "9:00 AM – 4:00 PM",
+        "sunday": "Closed",
+        "notes": "These day fields are the rental hours the official Las Vegas page publishes for Oct 11–Apr 4. For Apr 6–Oct 10 the same page lists Mon–Sat 8:00 AM–5:00 PM and Sunday closed. The depot address is in Henderson, southeast of Las Vegas. Confirm the current season before you arrive."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": true,
+        "delivery": false
+      },
+      "offersNotes": "The official Las Vegas location FAQ says Cruise America offers one-way rentals (additional fees may apply) and pet-friendly RV rentals. Confirm the route and pet rules when you book.",
+      "visitNotes": "The page identifies this as the Las Vegas RV sales and rental center; the street address is in Henderson. The phone shown is the rentals line; the page lists 702-766-4127 for sales.",
+      "sources": [
+        {
+          "label": "Cruise America Las Vegas location page",
+          "url": "https://www.cruiseamerica.com/rv-rental-locations/nevada/las-vegas"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "El Monte RV — Las Vegas (Boulder Hwy)",
+      "area": "East Las Vegas (Boulder Highway)",
+      "address": "3800 Boulder Hwy., Las Vegas, NV 89121",
+      "phone": "+1 (702) 269-8000",
+      "website": "https://www.elmonterv.com/rv-rental-locations/las-vegas-nevada",
+      "bookingUrl": "https://www.elmonterv.com/rv-rental-locations/las-vegas-nevada",
+      "hours": {
+        "monday": "9:00 AM – 4:00 PM",
+        "tuesday": "9:00 AM – 4:00 PM",
+        "wednesday": "9:00 AM – 4:00 PM",
+        "thursday": "9:00 AM – 4:00 PM",
+        "friday": "9:00 AM – 4:00 PM",
+        "saturday": "9:00 AM – 4:00 PM",
+        "sunday": "9:00 AM – 4:00 PM",
+        "notes": "These day fields are the branch hours the official Las Vegas page publishes for Oct 1–Mar 31 (Monday–Sunday 9:00 AM–4:00 PM). For Apr 1–Sep 30 it lists Mon–Sat 8:00 AM–5:00 PM and Sunday 8:00 AM–4:00 PM. The page lists closures on New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, and Christmas Day. Pickup is listed as after 1:00 PM and drop-off before 10:00 AM, and the page says after-hours pickups cannot be accommodated."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "El Monte RV’s official one-way rentals page lists Las Vegas, NV among its locations. Confirm the route and any fee when you book.",
+      "feeNotes": "The Las Vegas page lists a $1,500 security deposit due at pickup, a $50-per-hour late fee on top of the time-slot difference, and, for EDC event bookings, a $750 non-refundable booking deposit when pickup is at Las Vegas — all as listed on 2026-11-18.",
+      "visitNotes": "This is the same Boulder Highway street address published on Road Bear RV’s official Las Vegas page. The two brands are booked on separate sites.",
+      "sources": [
+        {
+          "label": "El Monte RV Las Vegas branch page",
+          "url": "https://www.elmonterv.com/rv-rental-locations/las-vegas-nevada"
+        },
+        {
+          "label": "El Monte RV one-way rentals page",
+          "url": "https://www.elmonterv.com/one-way-rv-rentals"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Road Bear RV — Las Vegas (Boulder Hwy)",
+      "area": "East Las Vegas (Boulder Highway)",
+      "address": "3800 Boulder Hwy, Las Vegas, NV 89121",
+      "phone": "+1 (702) 453-1109",
+      "website": "https://www.roadbearrv.com/rv-rental-locations/las-vegas-nevada",
+      "bookingUrl": "https://www.roadbearrv.com/rv-rental-locations/las-vegas-nevada",
+      "hours": {
+        "monday": "9:00 AM – 4:00 PM",
+        "tuesday": "9:00 AM – 4:00 PM",
+        "wednesday": "9:00 AM – 4:00 PM",
+        "thursday": "9:00 AM – 4:00 PM",
+        "friday": "9:00 AM – 4:00 PM",
+        "saturday": "9:00 AM – 4:00 PM",
+        "sunday": "9:00 AM – 4:00 PM",
+        "notes": "These day fields follow the official Las Vegas page for Oct 1–Mar 31 (Monday–Sunday 9:00 AM–4:00 PM). For Apr 1–Sep 30 the same page lists Mon–Sat 8:00 AM–5:00 PM and Sunday 8:00 AM–4:00 PM, and it lists closures on major holidays. Pickup is listed as after 1:00 PM and drop-off before 10:00 AM. This is the same address published on El Monte RV’s Las Vegas page."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "The official Las Vegas location page includes a One-Ways section and links to one-way deals. Confirm the route and any fee when you book.",
+      "visitNotes": "The page lists a branch direct line and says shuttle transfers must be requested through online check-in at least 31 days before pickup.",
+      "sources": [
+        {
+          "label": "Road Bear RV Las Vegas location page",
+          "url": "https://www.roadbearrv.com/rv-rental-locations/las-vegas-nevada"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Native Campervans — Las Vegas",
+      "area": "West of the Strip (near Harry Reid Airport)",
+      "address": "4350 Arville Street, Suite 420, Las Vegas, NV 89103",
+      "phone": "(877) 550-5335",
+      "website": "https://nativecampervans.com/las-vegas-nevada/",
+      "bookingUrl": "https://nativecampervans.com/las-vegas-nevada/",
+      "hours": {
+        "monday": "9:00 AM – 4:00 PM",
+        "tuesday": "9:00 AM – 4:00 PM",
+        "wednesday": "9:00 AM – 4:00 PM",
+        "thursday": "9:00 AM – 4:00 PM",
+        "friday": "9:00 AM – 4:00 PM",
+        "saturday": "9:00 AM – 4:00 PM",
+        "sunday": "9:00 AM – 4:00 PM",
+        "notes": "Hours are taken from the official Las Vegas page’s structured data (Monday–Sunday, 09:00–16:00). The page says the office is a 10–15 minute ride from LAS airport."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "feeNotes": "Native Campervans’ official one-way page lists a $500 relocation fee for one-way rentals, as listed on 2026-11-18. That page names Las Vegas among its offices and also says pickups and drop-offs are only permitted between “our three offices.” Confirm current one-way routes and the fee when you book.",
+      "visitNotes": "The official page gives rideshare and taxi directions from Harry Reid International Airport.",
+      "sources": [
+        {
+          "label": "Native Campervans Las Vegas page",
+          "url": "https://nativecampervans.com/las-vegas-nevada/"
+        },
+        {
+          "label": "Native Campervans one-way rentals page",
+          "url": "https://nativecampervans.com/one-way-campervan-rentals/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Indie Campers — Las Vegas (Henderson)",
+      "area": "Henderson",
+      "address": "648 Joey Ln, Henderson, NV 89011",
+      "phone": "+1 (725) 895-3668",
+      "website": "https://indiecampers.com/discover/en-us/rent-an-rv/las-vegas",
+      "bookingUrl": "https://indiecampers.com/discover/en-us/rent-an-rv/las-vegas",
+      "hours": {
+        "monday": "9:00 AM – 6:00 PM",
+        "tuesday": "9:00 AM – 6:00 PM",
+        "wednesday": "9:00 AM – 6:00 PM",
+        "thursday": "9:00 AM – 6:00 PM",
+        "friday": "9:00 AM – 6:00 PM",
+        "saturday": "9:00 AM – 6:00 PM",
+        "sunday": "9:00 AM – 6:00 PM",
+        "notes": "Hours are taken from the official Las Vegas page’s structured data (Monday–Sunday, 09:00–18:00). The structured data gives the street as “648 Joey Ln, Henderson” with locality Las Vegas and ZIP 89011. Confirm pickup and return windows when you book."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": true,
+        "delivery": false
+      },
+      "offersNotes": "The official Las Vegas page lists flexible one-way rentals with drop-off in Los Angeles, Phoenix, Denver, or San Francisco. Its FAQ says RVs are pet-friendly with the extra cleaning service purchased, one pet per motorhome, up to 30 kg.",
+      "visitNotes": "The official Las Vegas page’s structured data lists this Henderson street address.",
+      "sources": [
+        {
+          "label": "Indie Campers Las Vegas page",
+          "url": "https://indiecampers.com/discover/en-us/rent-an-rv/las-vegas"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "roadsurfer — Las Vegas",
+      "area": "North Las Vegas Blvd",
+      "address": "3385 N Las Vegas Blvd, Las Vegas, NV 89115",
+      "website": "https://roadsurfer.com/rv-rental/usa/nevada/las-vegas/",
+      "bookingUrl": "https://roadsurfer.com/rv-rental/usa/nevada/las-vegas/",
+      "hours": {
+        "monday": "Pickups and returns offered; time chosen at booking",
+        "tuesday": "Pickups and returns offered; time chosen at booking",
+        "wednesday": "Pickups and returns offered; time chosen at booking",
+        "thursday": "Pickups and returns offered; time chosen at booking",
+        "friday": "Pickups and returns offered; time chosen at booking",
+        "saturday": "Pickups and returns offered; time chosen at booking",
+        "sunday": "Closed",
+        "notes": "The Las Vegas station page does not publish clock hours. roadsurfer’s official prices page, checked the same day, says vehicles can be collected or returned Monday to Saturday, with the time chosen during booking, and are not released or accepted on Sundays and public holidays."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "feeNotes": "The official Las Vegas station page says a one-time one-way fee starting at $349 is applied during booking, as listed on 2026-11-18.",
+      "offersNotes": "The station page lists one-way returns to San Francisco, Los Angeles, Phoenix, Salt Lake City, Seattle, Denver, and Miami. Confirm the route and fee when you book.",
+      "visitNotes": "The station page says free street parking is available nearby, such as on N Walnut Rd, at your own risk, and that the campers cannot be driven to the airport because of height limits.",
+      "sources": [
+        {
+          "label": "roadsurfer Las Vegas station page",
+          "url": "https://roadsurfer.com/rv-rental/usa/nevada/las-vegas/"
+        },
+        {
+          "label": "roadsurfer prices and pickup-hours page",
+          "url": "https://roadsurfer.com/rv-rental/prices/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Travellers Autobarn — Las Vegas",
+      "area": "West of the Strip (near I-15)",
+      "address": "3050 W Sirius Ave, Suite 102, Las Vegas, NV 89102",
+      "phone": "1-800-469-4790",
+      "website": "https://www.travellers-autobarnrv.com/rv-rental-locations-usa/las-vegas",
+      "bookingUrl": "https://www.travellers-autobarnrv.com/rv-rental-locations-usa/las-vegas",
+      "hours": {
+        "monday": "9:00 AM – 5:00 PM",
+        "tuesday": "9:00 AM – 5:00 PM",
+        "wednesday": "9:00 AM – 5:00 PM",
+        "thursday": "9:00 AM – 5:00 PM",
+        "friday": "9:00 AM – 5:00 PM",
+        "saturday": "9:00 AM – 5:00 PM",
+        "sunday": "Closed",
+        "notes": "The official Las Vegas page lists Monday to Saturday 9:00 AM–5:00 PM and closed Sundays and public holidays. Pickups are 10:00 AM–4:00 PM and returns 9:00 AM–3:00 PM, Monday to Saturday; the page says out-of-office pickups and drop-offs are not offered."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "visitNotes": "The page says the branch is just west of the Las Vegas Strip, close to I-15, and reachable by a short Uber or Lyft ride.",
+      "sources": [
+        {
+          "label": "Travellers Autobarn Las Vegas branch page",
+          "url": "https://www.travellers-autobarnrv.com/rv-rental-locations-usa/las-vegas"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Blacksford — Las Vegas",
+      "area": "South of the airport (Pilot Rd)",
+      "address": "500 Pilot Rd Suite F1, Las Vegas, NV 89119",
+      "phone": "+1 (702) 766-0171",
+      "website": "https://www.blacksford.com/las-vegas-rv-rentals",
+      "bookingUrl": "https://www.blacksford.com/las-vegas-rv-rentals",
+      "hours": {
+        "monday": "8:00 AM – 6:00 PM",
+        "tuesday": "8:00 AM – 6:00 PM",
+        "wednesday": "8:00 AM – 6:00 PM",
+        "thursday": "8:00 AM – 6:00 PM",
+        "friday": "8:00 AM – 6:00 PM",
+        "saturday": "8:00 AM – 6:00 PM",
+        "sunday": "8:00 AM – 6:00 PM",
+        "notes": "The official Las Vegas page lists hours as 8am–6pm daily. It also lists free airport transport 8am–6pm daily: text or call when you land."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": true,
+        "delivery": false
+      },
+      "offersNotes": "The official Las Vegas FAQ says one-way rentals between Las Vegas, Bozeman, and Phoenix are available on request. It says well-behaved dogs under 75 pounds are welcome with prior approval; cats and other animals are not permitted.",
+      "feeNotes": "Pet fees on the official Las Vegas page: $50/day (max $250 per rental) plus a $2,000 refundable security deposit, and a $500 cleaning fee if a pet causes damage or excessive dirt or fur — as listed on 2026-11-18.",
+      "visitNotes": "The page says every rental includes unlimited mileage, and models with a generator include unlimited generator use.",
+      "sources": [
+        {
+          "label": "Blacksford Las Vegas RV rentals page",
+          "url": "https://www.blacksford.com/las-vegas-rv-rentals"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "RVibe Adventures — Las Vegas",
+      "area": "West Las Vegas (W Sahara Ave)",
+      "address": "6545 W Sahara Ave, Las Vegas, NV 89146",
+      "phone": "(702) 824-4469",
+      "website": "https://rvibe.vegas/",
+      "bookingUrl": "https://rvibe.vegas/",
+      "hours": {
+        "monday": "10:00 AM – 5:00 PM",
+        "tuesday": "10:00 AM – 5:00 PM",
+        "wednesday": "10:00 AM – 5:00 PM",
+        "thursday": "10:00 AM – 5:00 PM",
+        "friday": "10:00 AM – 5:00 PM",
+        "saturday": "10:00 AM – 5:00 PM",
+        "sunday": "Not published",
+        "notes": "The official contact page lists Monday–Saturday 10:00 AM–5:00 PM. Sunday hours are not published."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "visitNotes": "A family-owned local fleet of Class A, Class C, and travel-trailer rentals, per its official site. The home page lists “Flexible Pick-Up Options” and 24/7 roadside support; confirm details when you book.",
+      "sources": [
+        {
+          "label": "RVibe contact page",
+          "url": "https://rvibe.vegas/contact/"
+        },
+        {
+          "label": "RVibe home page",
+          "url": "https://rvibe.vegas/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    }
+  ]
+}
