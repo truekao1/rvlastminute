@@ -1,0 +1,30 @@
+---
+layout: base.njk
+permalink: "/list-your-business/"
+eleventyComputed:
+  title: "List your RV rental depot · {{ site.name }}"
+  description: "Ask to be included in RVLastMinute. Listings are added only when hours, address, and one-way policies can be verified from a public source."
+  breadcrumbs:
+    - name: Home
+      url: /
+    - name: List your business
+      url: /list-your-business/
+---
+<article class="prose wrap">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">RV rental operators</p>
+  <h1>List your business</h1>
+  <p>If you operate an RV rental depot or dealer rental desk and you publish pickup hours, one-way options, or pet or delivery policies on your website, we want the record to be accurate.</p>
+  <p>Send:</p>
+  <ul>
+    <li>Business name and the city or neighborhood</li>
+    <li>Street address, phone, and website</li>
+    <li>Pickup or office hours for each day, including Saturday and Sunday if you publish them</li>
+    <li>Whether you offer one-way rentals, weekend pickup, pets, or delivery</li>
+    <li>A public page where we can verify those facts</li>
+  </ul>
+  <p>We will not publish hours or policies we cannot check on a public source, and we may recrawl your page before each update. We will not list live inventory or current rental rates as if they were guaranteed.</p>
+  <p>
+    <a class="button" href="mailto:{{ site.emailListings }}?subject=List%20an%20RV%20rental%20depot">Email {{ site.emailListings }}</a>
+  </p>
+</article>

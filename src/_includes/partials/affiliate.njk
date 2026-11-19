@@ -1,0 +1,15 @@
+<aside class="affiliate-box" aria-labelledby="affiliate-heading">
+  <h2 id="affiliate-heading">Live inventory on peer-to-peer platforms</h2>
+  <p>Dealer and depot listings below do not show which rigs are free this weekend. Peer-to-peer platforms publish live, date-specific search. Search your city and dates there for current availability, delivery, and pet filters.</p>
+  <p class="disclosure">{{ site.disclosure }}</p>
+  <ul class="affiliate-links">
+    {% for key, program in site.affiliates %}
+    <li>
+      <a class="button" href="{{ program | affiliateHref }}" {% if program | affiliateIsTracked %}rel="sponsored nofollow noopener"{% else %}rel="noopener"{% endif %} target="_blank">{{ program.name }}</a>
+      {% if not (program | affiliateIsTracked) %}
+      <span class="muted small">Public website — not a tracked affiliate link yet.</span>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</aside>

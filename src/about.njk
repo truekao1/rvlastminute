@@ -1,0 +1,36 @@
+---
+layout: base.njk
+permalink: "/about/"
+eleventyComputed:
+  title: "About {{ site.name }}"
+  description: "RVLastMinute is an independent directory of RV rental dealers and depots. We do not invent hours, one-way policies, or prices."
+  breadcrumbs:
+    - name: Home
+      url: /
+    - name: About
+      url: /about/
+---
+<article class="prose wrap">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">About</p>
+  <h1>About RVLastMinute</h1>
+  <p>RVLastMinute is a small directory for a common problem: you need an RV for a specific weekend or route, and generic search results do not show published depot hours, one-way rules, or where live inventory actually lives.</p>
+  <p>We are an independent website. We are not an RV rental company, a dealer, a booking marketplace, or a broker. We do not rent vehicles, hold inventory, or guarantee that a listed depot has a rig available today.</p>
+
+  <h2>How listings get on this site</h2>
+  <ul>
+    <li>Every fact — address, hours, phone numbers, and one-way flags — must come from a real public source, usually the operator’s own website.</li>
+    <li>Each listing includes the source URL and the date we last checked it.</li>
+    <li>If we cannot verify a detail, we leave it out. We do not invent depots, hours, one-way policies, or prices.</li>
+    <li>“One-way” is flagged only when that operator’s public page says one-way rentals are offered, including this city or a network that includes this depot.</li>
+    <li>“Not published” is used when a day’s hours are missing; we do not invent “Closed.” “Closed” is used only when the operator publishes it.</li>
+    <li>We do not cache live rental rates or available rigs. If a price appears, it is labeled as listed on a date. Reservation links go to the operator’s own page.</li>
+  </ul>
+  <p>Hours and inventory change. Confirm with the operator before you travel or pay. A longer explanation is in the <a href="/guides/need-an-rv-this-weekend-how-to-find-a-last-minute-rv-rental/">weekend rental guide</a>.</p>
+
+  <h2>Adding a city</h2>
+  <p>Each city is one JSON file. The research checklist for a new city lives in the project’s <code>scripts/new-city.md</code> file, so a nightly pass can add one verified page at a time.</p>
+
+  <h2>Contact</h2>
+  <p>For corrections or questions, email <a href="mailto:{{ site.emailContact }}">{{ site.emailContact }}</a>. RV rental operators that want to be listed can use the <a href="/list-your-business/">list your business</a> page.</p>
+</article>

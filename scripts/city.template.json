@@ -1,0 +1,47 @@
+{
+  "slug": "st-city",
+  "city": "City",
+  "citySlug": "city",
+  "state": "ST",
+  "stateName": "State",
+  "focus": "",
+  "lastUpdated": "YYYY-MM-DD",
+  "intro": "Replace with a short, factual intro. Do not invent coverage you did not research.",
+  "listings": [
+    {
+      "name": "",
+      "category": "rv-rental",
+      "area": "",
+      "address": "",
+      "phone": "",
+      "website": "",
+      "bookingUrl": "",
+      "hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": ""
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": false,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "visitNotes": "",
+      "offersNotes": "",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "",
+          "url": ""
+        }
+      ],
+      "lastChecked": "YYYY-MM-DD"
+    }
+  ]
+}

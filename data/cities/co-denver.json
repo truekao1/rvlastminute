@@ -1,0 +1,332 @@
+{
+  "slug": "co-denver",
+  "city": "Denver",
+  "citySlug": "denver",
+  "state": "CO",
+  "stateName": "Colorado",
+  "focus": "Denver metro, including Frederick, Commerce City, Aurora, and northeast Denver",
+  "lastUpdated": "2026-11-18",
+  "intro": "These Denver-area listings were checked on operator-owned depot or rental pages on November 18, 2026. Denver is the second launch metro because official operator pages treat it as a high-demand gateway: Native Campervans’ Denver page says the company started there in 2015, and Cruise America’s Denver page says rental demand spikes around major events and recommends booking early. Hours and one-way flags are copied from those pages; El Monte RV and Road Bear RV publish the same Commerce City street address on separate official pages. This is a starting sample, not a metro-wide inventory, and it does not cache live RV availability. Peer-to-peer platforms such as RVshare and Outdoorsy show live inventory for a specific weekend. If a price appears, it is labeled as listed on a date.",
+  "listings": [
+    {
+      "name": "Cruise America — Denver (Frederick)",
+      "area": "Frederick (north of Denver)",
+      "address": "4180 Busch Place, Frederick, CO 80504",
+      "phone": "(303) 482-1120",
+      "website": "https://www.cruiseamerica.com/rv-rental-locations/colorado/denver",
+      "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/colorado/denver",
+      "hours": {
+        "monday": "8:30 AM – 5:00 PM",
+        "tuesday": "8:30 AM – 5:00 PM",
+        "wednesday": "8:30 AM – 5:00 PM",
+        "thursday": "8:30 AM – 5:00 PM",
+        "friday": "8:30 AM – 5:00 PM",
+        "saturday": "9:00 AM – 4:00 PM",
+        "sunday": "Closed",
+        "notes": "These day fields are the rental hours the official Denver page publishes for Oct 11–Apr 4. For Apr 6–Oct 10 the same page lists Mon–Sat 8:00 AM–5:00 PM and Sunday closed. The depot address is in Frederick, north of Denver. Confirm the current season before you arrive."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": true,
+        "delivery": false
+      },
+      "offersNotes": "The official Denver location FAQ says Cruise America offers one-way rentals (additional fees may apply) and pet-friendly rentals, and that demand spikes during major events. Confirm the route and pet rules when you book.",
+      "visitNotes": "The page identifies this as the Denver RV sales and rental center. The street address is in Frederick.",
+      "sources": [
+        {
+          "label": "Cruise America Denver location page",
+          "url": "https://www.cruiseamerica.com/rv-rental-locations/colorado/denver"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "El Monte RV — Denver (Commerce City)",
+      "area": "Commerce City",
+      "address": "6586 Brighton Blvd., Commerce City, CO 80022",
+      "phone": "+1 (720) 570-1100",
+      "website": "https://www.elmonterv.com/rv-rental-locations/denver-colorado",
+      "bookingUrl": "https://www.elmonterv.com/rv-rental-locations/denver-colorado",
+      "hours": {
+        "monday": "9:00 AM – 4:00 PM",
+        "tuesday": "9:00 AM – 4:00 PM",
+        "wednesday": "9:00 AM – 4:00 PM",
+        "thursday": "9:00 AM – 4:00 PM",
+        "friday": "9:00 AM – 4:00 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "notes": "These day fields are the branch hours the official Denver rental page publishes for Oct 1–Mar 31 (Mon–Fri 9:00 AM–4:00 PM, Saturday and Sunday closed). The same page says the branch is closed from December 19, 2026, through January 5, 2027, and lists other holiday closures. For Apr 1–Sep 30 it lists Mon–Fri 8:00 AM–5:00 PM, Saturday 8:00 AM–1:00 PM, and Sunday closed. Weekday pickup is listed as after 1:00 PM. Confirm the current dates before you arrive."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": false,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "El Monte RV’s official one-way rentals page lists Denver among its locations. Confirm the route and any fee when you book.",
+      "visitNotes": "This is the same Commerce City street address published on Road Bear RV’s official Denver page. The two brands are booked on separate sites.",
+      "sources": [
+        {
+          "label": "El Monte RV Denver branch page",
+          "url": "https://www.elmonterv.com/rv-rental-locations/denver-colorado"
+        },
+        {
+          "label": "El Monte RV one-way rentals page",
+          "url": "https://www.elmonterv.com/one-way-rv-rentals"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Road Bear RV — Denver (Commerce City)",
+      "area": "Commerce City",
+      "address": "6586 Brighton Boulevard, Commerce City, CO 80022",
+      "phone": "+1 (720) 570-1100",
+      "website": "https://www.roadbearrv.com/rv-rental-locations/denver-colorado",
+      "bookingUrl": "https://www.roadbearrv.com/rv-rental-locations/denver-colorado",
+      "hours": {
+        "monday": "9:00 AM – 4:00 PM",
+        "tuesday": "9:00 AM – 4:00 PM",
+        "wednesday": "9:00 AM – 4:00 PM",
+        "thursday": "9:00 AM – 4:00 PM",
+        "friday": "9:00 AM – 4:00 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "notes": "These day fields follow the official Denver page for Oct 1–Mar 31 (Mon–Fri 9:00 AM–4:00 PM, Saturday and Sunday closed). For Apr 1–Sep 30 the same page lists Mon–Fri 8:00 AM–5:00 PM, Saturday 8:00 AM–1:00 PM by appointment only, and Sunday closed. It also lists a holiday closure from December 19 through January 5. This is the same Commerce City address published on El Monte RV’s Denver page. Confirm the current dates before you arrive."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": false,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "The official Denver location page includes a One-Ways section and links to one-way deals. Confirm the route and any fee when you book.",
+      "visitNotes": "This is the same Commerce City street address published on El Monte RV’s official Denver page. The two brands are booked on separate sites.",
+      "sources": [
+        {
+          "label": "Road Bear RV Denver location page",
+          "url": "https://www.roadbearrv.com/rv-rental-locations/denver-colorado"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Native Campervans — Denver",
+      "area": "North Denver",
+      "address": "2919 E 42nd Ave, Denver, CO 80216",
+      "phone": "(877) 550-5335",
+      "website": "https://nativecampervans.com/denver-colorado/",
+      "bookingUrl": "https://nativecampervans.com/denver-colorado/",
+      "hours": {
+        "monday": "9:00 AM – 4:00 PM",
+        "tuesday": "9:00 AM – 4:00 PM",
+        "wednesday": "9:00 AM – 4:00 PM",
+        "thursday": "9:00 AM – 4:00 PM",
+        "friday": "9:00 AM – 4:00 PM",
+        "saturday": "9:00 AM – 4:00 PM",
+        "sunday": "9:00 AM – 4:00 PM",
+        "notes": "Hours are taken from the official Denver page’s structured data (Monday–Sunday, 09:00–16:00). The same page says the office is just north of downtown along I-70, about 30 minutes from Denver International Airport."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "feeNotes": "Native Campervans’ official one-way page lists a $500 relocation fee for one-way rentals, as listed on November 18, 2026. That page names Denver among the offices and also says pickups and drop-offs are only permitted between “our three offices.” Confirm current one-way routes and the fee when you book.",
+      "visitNotes": "The official Denver page says the company started in Denver in 2015 and that the office is just north of downtown along I-70.",
+      "sources": [
+        {
+          "label": "Native Campervans Denver page",
+          "url": "https://nativecampervans.com/denver-colorado/"
+        },
+        {
+          "label": "Native Campervans one-way rentals page",
+          "url": "https://nativecampervans.com/one-way-campervan-rentals/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Indie Campers — Denver",
+      "area": "Northeast Denver metro",
+      "address": "8021 E 100th Ave, Denver, CO 80640",
+      "phone": "+1 (720) 979-4011",
+      "website": "https://indiecampers.com/discover/en-us/rent-an-rv/denver",
+      "bookingUrl": "https://indiecampers.com/discover/en-us/rent-an-rv/denver",
+      "hours": {
+        "monday": "9:00 AM – 6:00 PM",
+        "tuesday": "9:00 AM – 6:00 PM",
+        "wednesday": "9:00 AM – 6:00 PM",
+        "thursday": "9:00 AM – 6:00 PM",
+        "friday": "9:00 AM – 6:00 PM",
+        "saturday": "9:00 AM – 6:00 PM",
+        "sunday": "9:00 AM – 6:00 PM",
+        "notes": "Hours are taken from the official Denver page’s structured data (Monday–Sunday, 09:00–18:00). The published address uses ZIP 80640. Confirm pickup and return windows when you book."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "The official Denver page has a “One-Way RV Rentals from Denver” section and says one-way fees vary. Confirm availability and fees when booking.",
+      "visitNotes": "The official Denver page’s structured data lists this street address with locality Denver and postal code 80640.",
+      "sources": [
+        {
+          "label": "Indie Campers Denver page",
+          "url": "https://indiecampers.com/discover/en-us/rent-an-rv/denver"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "VanCraft Campervans — Denver",
+      "area": "East Denver",
+      "address": "4901 E 38th Ave, Denver, CO 80207",
+      "phone": "1-888-381-7333",
+      "website": "https://van-craft.com/location/denver-co/",
+      "bookingUrl": "https://van-craft.com/location/denver-co/",
+      "hours": {
+        "monday": "9:00 AM – 5:00 PM",
+        "tuesday": "9:00 AM – 5:00 PM",
+        "wednesday": "9:00 AM – 5:00 PM",
+        "thursday": "9:00 AM – 5:00 PM",
+        "friday": "9:00 AM – 5:00 PM",
+        "saturday": "Appointment only",
+        "sunday": "Appointment only",
+        "notes": "The official Denver depot page lists Mon–Fri 9:00 AM–5:00 PM and Saturday–Sunday by appointment only. Pickup and drop-off are listed as 9:00 AM–5:00 PM, with after-hours drop-off available. Confirm an appointment for a weekend pickup."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "visitNotes": "The official depot page publishes this address under “Rental Depot in Denver, CO.” The phone number appears on the same official page.",
+      "sources": [
+        {
+          "label": "VanCraft Denver depot page",
+          "url": "https://van-craft.com/location/denver-co/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "roadsurfer — Denver",
+      "area": "Denver",
+      "address": "5347 Sherman St, Denver, CO 80216",
+      "website": "https://roadsurfer.com/rv-rental/usa/colorado/denver/",
+      "bookingUrl": "https://roadsurfer.com/rv-rental/usa/colorado/denver/",
+      "hours": {
+        "monday": "9:00 AM – 6:00 PM",
+        "tuesday": "9:00 AM – 6:00 PM",
+        "wednesday": "9:00 AM – 6:00 PM",
+        "thursday": "9:00 AM – 6:00 PM",
+        "friday": "9:00 AM – 6:00 PM",
+        "saturday": "9:00 AM – 6:00 PM",
+        "sunday": "9:00 AM – 6:00 PM",
+        "notes": "Clock hours are taken from the official Denver station page’s structured data (Monday–Sunday, 09:00–18:00). roadsurfer’s official prices page, checked the same day, says vehicles are not released or accepted on Sundays and public holidays. Confirm Sunday hours when you book. The station page says on-site parking is not available."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "The official Denver station page includes a section on one-way rentals from Denver to other U.S. stations. Confirm the route and any fee when you book.",
+      "visitNotes": "The station page says on-site parking is not available and street parking is not recommended; it encourages taxi, rideshare, or public transportation.",
+      "sources": [
+        {
+          "label": "roadsurfer Denver station page",
+          "url": "https://roadsurfer.com/rv-rental/usa/colorado/denver/"
+        },
+        {
+          "label": "roadsurfer prices and pickup-hours page",
+          "url": "https://roadsurfer.com/rv-rental/prices/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Titus Adventure Company — Denver",
+      "area": "Denver",
+      "address": "1830 W 64th Ln Unit A, Denver, CO 80221",
+      "phone": "(303) 879-5855",
+      "website": "https://www.tacrentals.com/denver-campervan-rentals",
+      "bookingUrl": "https://www.tacrentals.com/denver-campervan-rentals",
+      "hours": {
+        "monday": "9:00 AM – 4:00 PM",
+        "tuesday": "9:00 AM – 4:00 PM",
+        "wednesday": "9:00 AM – 4:00 PM",
+        "thursday": "9:00 AM – 4:00 PM",
+        "friday": "9:00 AM – 4:00 PM",
+        "saturday": "9:00 AM – 4:00 PM",
+        "sunday": "9:00 AM – 4:00 PM",
+        "notes": "Hours are taken from the official Denver page’s structured data (Mo–Su 09:00–16:00). Confirm a pickup window when you book."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "visitNotes": "The official Denver campervan rentals page publishes this address and says to call or text the listed number.",
+      "sources": [
+        {
+          "label": "Titus Adventure Company Denver rentals page",
+          "url": "https://www.tacrentals.com/denver-campervan-rentals"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Trailhead RV Rentals — Aurora",
+      "area": "Aurora (near Denver International Airport)",
+      "address": "2151 S. Rome Way, Aurora, CO 80018",
+      "phone": "(303) 729-0370",
+      "website": "https://trailheadrvrentals.com/",
+      "bookingUrl": "https://trailheadrvrentals.com/",
+      "hours": {
+        "monday": "9:00 AM – 4:00 PM",
+        "tuesday": "9:00 AM – 4:00 PM",
+        "wednesday": "9:00 AM – 4:00 PM",
+        "thursday": "9:00 AM – 4:00 PM",
+        "friday": "9:00 AM – 4:00 PM",
+        "saturday": "9:00 AM – 4:00 PM",
+        "sunday": "Closed",
+        "notes": "Office hours are taken from the official contact page: Monday–Saturday 9:00 AM–4:00 PM, Sunday closed. The same page lists coach pickup at 1:00 PM and drop-off at 9:30 AM, and says coach pickup and drop-off are open Sunday–Saturday. The FAQ says the RV is returned at 9:30 AM and can be checked out at 1:00 PM. Confirm a Sunday pickup directly with the operator, because office hours are published as closed on Sunday."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": true
+      },
+      "feeNotes": "The official FAQ says delivery can be arranged for nearby Colorado locations, with an average cost between $500 and $1,000, as listed on November 18, 2026. The same page says renters are allowed 100 miles per night and $0.35 per extra mile, and 3 hours of generator use per day with a $10 fee for each extra hour, as listed on November 18, 2026. Confirm current fees when you book.",
+      "visitNotes": "The official FAQ says pickups and drop-offs use a storage lot at this address, that the storage facility is not affiliated with Trailhead RV Rentals, and that the lot does not allow parking, water, or tank dumping. The contact page asks people to text (303) 729-0370 for the fastest response.",
+      "offersNotes": "The official FAQ says delivery can be arranged for nearby Colorado locations. Confirm availability and the quote when you book.",
+      "sources": [
+        {
+          "label": "Trailhead RV Rentals contact page",
+          "url": "https://trailheadrvrentals.com/contact-us/"
+        },
+        {
+          "label": "Trailhead RV Rentals FAQ",
+          "url": "https://trailheadrvrentals.com/faq/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    }
+  ]
+}

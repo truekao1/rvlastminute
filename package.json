@@ -1,0 +1,15 @@
+{
+  "name": "rvlastminute",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "RVLastMinute is a static directory of RV rental dealers and depots for last-minute and constrained trips, with live inventory left to peer-to-peer platforms.",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "check": "node scripts/check.mjs"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}

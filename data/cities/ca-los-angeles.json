@@ -1,0 +1,292 @@
+{
+  "slug": "ca-los-angeles",
+  "city": "Los Angeles",
+  "citySlug": "los-angeles",
+  "state": "CA",
+  "stateName": "California",
+  "focus": "Los Angeles metro, including Carson, Hawthorne, Inglewood, Santa Fe Springs, Agoura Hills, and Sun Valley",
+  "lastUpdated": "2026-11-18",
+  "intro": "These Los Angeles listings were checked on operator-owned depot or rental pages on November 18, 2026. Hours and one-way flags are copied from those pages; seasonal tables are noted where the operator publishes them. This is a starting sample of verified dealers and depots, not a citywide inventory, and it does not cache live RV availability. Peer-to-peer platforms such as RVshare and Outdoorsy show live inventory for a specific weekend. If a price appears, it is labeled as listed on a date.",
+  "listings": [
+    {
+      "name": "Cruise America — Los Angeles (Carson)",
+      "area": "Carson",
+      "address": "2233 E. 223rd St., Carson, CA 90810",
+      "phone": "(310) 522-3870",
+      "website": "https://www.cruiseamerica.com/rv-rental-locations/california/los-angeles-carson",
+      "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/california/los-angeles-carson",
+      "hours": {
+        "monday": "8:30 AM – 5:00 PM",
+        "tuesday": "8:30 AM – 5:00 PM",
+        "wednesday": "8:30 AM – 5:00 PM",
+        "thursday": "8:30 AM – 5:00 PM",
+        "friday": "8:30 AM – 5:00 PM",
+        "saturday": "9:00 AM – 4:00 PM",
+        "sunday": "Closed",
+        "notes": "These day fields are the rental hours the official Carson page publishes for Oct 11–Apr 4. For Apr 6–Oct 10 the same page lists Mon–Sat 8:00 AM–5:00 PM and Sunday closed. A separate sales-hours table is also on that page. Confirm the current season before you arrive."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": true,
+        "delivery": false
+      },
+      "offersNotes": "The official location FAQ says Cruise America offers one-way rentals (additional fees may apply, and discounts may be available on some routes) and pet-friendly rentals. Confirm the route and pet rules when you book.",
+      "visitNotes": "The page identifies this as an RV sales and rental center near LAX, in Carson.",
+      "sources": [
+        {
+          "label": "Cruise America Los Angeles (Carson) location page",
+          "url": "https://www.cruiseamerica.com/rv-rental-locations/california/los-angeles-carson"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "El Monte RV — Los Angeles (Santa Fe Springs)",
+      "area": "Santa Fe Springs",
+      "address": "12818 Firestone Blvd., Santa Fe Springs, CA 90670",
+      "phone": "+1 (562) 404-9300",
+      "website": "https://www.elmonterv.com/rv-rental-locations/los-angeles-california",
+      "bookingUrl": "https://www.elmonterv.com/rv-rental-locations/los-angeles-california",
+      "hours": {
+        "monday": "9:00 AM – 4:00 PM",
+        "tuesday": "9:00 AM – 4:00 PM",
+        "wednesday": "9:00 AM – 4:00 PM",
+        "thursday": "9:00 AM – 4:00 PM",
+        "friday": "9:00 AM – 4:00 PM",
+        "saturday": "9:00 AM – 4:00 PM",
+        "sunday": "9:00 AM – 4:00 PM",
+        "notes": "These day fields are the branch hours the official Los Angeles rental page publishes for Oct 1–Mar 31 (daily 9:00 AM–4:00 PM). For Apr 1–Sep 30 the same page lists Mon–Sat 8:00 AM–5:00 PM and Sunday 8:00 AM–4:00 PM. Standard weekday pickup is listed as after 1:00 PM; drop-off is listed as before 10:00 AM. The page lists holiday closures. Confirm the current season before you arrive."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "El Monte RV’s official one-way rentals page lists Los Angeles among its locations. Confirm the route and any fee when you book.",
+      "sources": [
+        {
+          "label": "El Monte RV Los Angeles branch page",
+          "url": "https://www.elmonterv.com/rv-rental-locations/los-angeles-california"
+        },
+        {
+          "label": "El Monte RV one-way rentals page",
+          "url": "https://www.elmonterv.com/one-way-rv-rentals"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Road Bear RV — Los Angeles (Agoura Hills)",
+      "area": "Agoura Hills",
+      "address": "28404 Roadside Dr, Agoura Hills, CA 91301",
+      "phone": "+1 (818) 991-2794",
+      "website": "https://www.roadbearrv.com/rv-rental-locations/los-angeles-california",
+      "bookingUrl": "https://www.roadbearrv.com/rv-rental-locations/los-angeles-california",
+      "hours": {
+        "monday": "9:00 AM – 4:00 PM",
+        "tuesday": "9:00 AM – 4:00 PM",
+        "wednesday": "9:00 AM – 4:00 PM",
+        "thursday": "9:00 AM – 4:00 PM",
+        "friday": "9:00 AM – 4:00 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "notes": "These day fields follow the official Agoura Hills page for Oct 1–Mar 31 (Mon–Fri 9:00 AM–4:00 PM) plus the same page’s note that the branch is closed on Saturdays from November 1 through March 15, except 11/28, 12/19, 12/26, and 01/02. Outside that Saturday-closure window, the winter table lists Saturday 9:00 AM–1:00 PM. For “01 April 2025 – 30 September” the page lists Mon–Fri 8:00 AM–5:00 PM, Saturday 8:00 AM–1:00 PM, and Sunday closed. Pickup is listed as after 1:00 PM. Confirm the current dates before you arrive."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": false,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "The official Los Angeles location page includes a One-Ways section and links to one-way deals. Confirm the route and any fee when you book.",
+      "visitNotes": "The official page lists this Agoura Hills address (about 35 miles from LAX on that page). Do not confuse it with El Monte RV’s Santa Fe Springs depot.",
+      "sources": [
+        {
+          "label": "Road Bear RV Los Angeles location page",
+          "url": "https://www.roadbearrv.com/rv-rental-locations/los-angeles-california"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Travellers Autobarn — Los Angeles (Inglewood)",
+      "area": "Inglewood",
+      "address": "500 W Florence Avenue, Inglewood, CA 90301",
+      "phone": "1-800-469-4790",
+      "website": "https://www.travellers-autobarnrv.com/rv-rental-locations-usa/los-angeles",
+      "bookingUrl": "https://www.travellers-autobarnrv.com/rv-rental-locations-usa/los-angeles",
+      "hours": {
+        "monday": "9:00 AM – 5:00 PM",
+        "tuesday": "9:00 AM – 5:00 PM",
+        "wednesday": "9:00 AM – 5:00 PM",
+        "thursday": "9:00 AM – 5:00 PM",
+        "friday": "9:00 AM – 5:00 PM",
+        "saturday": "9:00 AM – 5:00 PM",
+        "sunday": "Closed",
+        "notes": "The official Los Angeles branch page lists Monday to Saturday 9:00 AM–5:00 PM and closed Sundays and public holidays. Pickup is listed as 10:00 AM–4:00 PM and returns as 9:00 AM–3:00 PM, Monday to Saturday. The page says the branch does not offer out-of-office pickups or drop-offs out of Los Angeles."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "visitNotes": "The official branch page says the depot is close to LAX and reached via I-405 or I-105.",
+      "sources": [
+        {
+          "label": "Travellers Autobarn Los Angeles branch page",
+          "url": "https://www.travellers-autobarnrv.com/rv-rental-locations-usa/los-angeles"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Indie Campers — Los Angeles",
+      "area": "South Los Angeles",
+      "address": "14208 Towne Ave, Los Angeles, CA 90061",
+      "phone": "+1 (818) 720-3784",
+      "website": "https://indiecampers.com/discover/en-us/rent-an-rv/los-angeles",
+      "bookingUrl": "https://indiecampers.com/discover/en-us/rent-an-rv/los-angeles",
+      "hours": {
+        "monday": "9:00 AM – 6:00 PM",
+        "tuesday": "9:00 AM – 6:00 PM",
+        "wednesday": "9:00 AM – 6:00 PM",
+        "thursday": "9:00 AM – 6:00 PM",
+        "friday": "9:00 AM – 6:00 PM",
+        "saturday": "9:00 AM – 6:00 PM",
+        "sunday": "9:00 AM – 6:00 PM",
+        "notes": "Hours are taken from the official Los Angeles page’s structured data (Monday–Sunday, 09:00–18:00). Confirm pickup and return windows when you book."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "The official Los Angeles page has a “One-Way RV Rentals from Los Angeles” section and says one-way fees vary. Confirm availability and fees when booking.",
+      "sources": [
+        {
+          "label": "Indie Campers Los Angeles page",
+          "url": "https://indiecampers.com/discover/en-us/rent-an-rv/los-angeles"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Native Campervans — Los Angeles",
+      "area": "near LAX",
+      "address": "9700 Bellanca Ave, Los Angeles, CA 90045",
+      "phone": "(877) 550-5335",
+      "website": "https://nativecampervans.com/los-angeles-california/",
+      "bookingUrl": "https://nativecampervans.com/los-angeles-california/",
+      "hours": {
+        "monday": "9:00 AM – 4:00 PM",
+        "tuesday": "9:00 AM – 4:00 PM",
+        "wednesday": "9:00 AM – 4:00 PM",
+        "thursday": "9:00 AM – 4:00 PM",
+        "friday": "9:00 AM – 4:00 PM",
+        "saturday": "9:00 AM – 4:00 PM",
+        "sunday": "9:00 AM – 4:00 PM",
+        "notes": "Hours are taken from the official Los Angeles page’s structured data (Monday–Sunday, 09:00–16:00). The same page says the office is near LAX and publishes a complimentary 24-hour shuttle; follow that page for shuttle details."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "feeNotes": "Native Campervans’ official one-way page lists a $500 relocation fee for one-way rentals, as listed on November 18, 2026. That page names offices in Las Vegas, Salt Lake City, Phoenix, Los Angeles, and Denver, and also says pickups and drop-offs are only permitted between “our three offices.” Confirm current one-way routes and the fee when you book.",
+      "sources": [
+        {
+          "label": "Native Campervans Los Angeles page",
+          "url": "https://nativecampervans.com/los-angeles-california/"
+        },
+        {
+          "label": "Native Campervans one-way rentals page",
+          "url": "https://nativecampervans.com/one-way-campervan-rentals/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "roadsurfer — Los Angeles (Hawthorne)",
+      "area": "Hawthorne",
+      "address": "11992 Hawthorne Blvd, Hawthorne, CA 90250",
+      "website": "https://roadsurfer.com/rv-rental/usa/california/los-angeles/",
+      "bookingUrl": "https://roadsurfer.com/rv-rental/usa/california/los-angeles/",
+      "hours": {
+        "monday": "Open — clock times not published",
+        "tuesday": "Open — clock times not published",
+        "wednesday": "Open — clock times not published",
+        "thursday": "Open — clock times not published",
+        "friday": "Open — clock times not published",
+        "saturday": "Open — clock times not published",
+        "sunday": "Closed",
+        "notes": "The official Los Angeles station page publishes the Hawthorne address but not a clock-hours table. roadsurfer’s official prices page, checked the same day, says vehicles can be collected or returned Monday to Saturday and are not released or accepted on Sundays and public holidays. Choose a pickup time during booking and confirm with the station."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "feeNotes": "The official Los Angeles station page says the one-way rental fee starts at $349, as listed on November 18, 2026, and that the charge is added during booking. Confirm the current fee for your route.",
+      "visitNotes": "The station page recommends a rideshare from LAX (about 10–15 minutes) and says the station does not provide parking facilities.",
+      "offersNotes": "The same page describes one-way rentals from Los Angeles to other roadsurfer stations in the U.S.",
+      "sources": [
+        {
+          "label": "roadsurfer Los Angeles station page",
+          "url": "https://roadsurfer.com/rv-rental/usa/california/los-angeles/"
+        },
+        {
+          "label": "roadsurfer prices and pickup-hours page",
+          "url": "https://roadsurfer.com/rv-rental/prices/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "RV Pirates — Sun Valley",
+      "area": "Sun Valley",
+      "address": "10645 La Tuna Canyon Rd, Sun Valley, CA 91352",
+      "phone": "(310) 714-4848",
+      "website": "https://rvpirates.com/",
+      "bookingUrl": "https://rvpirates.com/",
+      "hours": {
+        "monday": "9:00 AM – 4:00 PM",
+        "tuesday": "9:00 AM – 4:00 PM",
+        "wednesday": "9:00 AM – 4:00 PM",
+        "thursday": "9:00 AM – 4:00 PM",
+        "friday": "9:00 AM – 4:00 PM",
+        "saturday": "9:00 AM – 4:00 PM",
+        "sunday": "9:00 AM – 4:00 PM",
+        "notes": "Hours are taken from the official site’s structured data (Monday–Sunday, 09:00–16:00). Confirm a pickup window when you book."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": true,
+        "delivery": false
+      },
+      "feeNotes": "The official site says 100 miles per night are included and overages are $0.45/mile after, as listed on November 18, 2026. The same page says pets are allowed and a $100 cleaning fee is assessed from the deposit if the rig comes back with fur or pet odor, as listed on November 18, 2026.",
+      "visitNotes": "The official site says the address is about 10 minutes from Hollywood Burbank Airport and that the company has served Los Angeles since 2017.",
+      "sources": [
+        {
+          "label": "RV Pirates official site",
+          "url": "https://rvpirates.com/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-18"
+    }
+  ]
+}
