@@ -17,20 +17,23 @@ eleventyComputed:
   <p>{{ site.disclosure }} Advertising is labeled. A commission does not change a local listing, and it is not a reason we include or exclude a depot.</p>
 
   <h2>Programs we may join</h2>
-  <p>City pages and the <a href="/guides/need-an-rv-this-weekend-how-to-find-a-last-minute-rv-rental/">weekend rental guide</a> include clearly marked links for RVshare and Outdoorsy.</p>
+  <p>The homepage, city pages, and the <a href="/guides/need-an-rv-this-weekend-how-to-find-a-last-minute-rv-rental/">weekend rental guide</a> include clearly marked links for RVshare and Outdoorsy. RVshare is a peer-to-peer RV rental marketplace.</p>
   <ul>
     {% for key, program in site.affiliates %}
     <li>
       <strong>{{ program.name }}</strong>
       {% if program | affiliateIsTracked %}
-      — If you click through the marked link and complete a qualifying booking, RVLastMinute may receive a commission.
+      — If you click through the marked <a href="{{ program | affiliateHref }}" rel="sponsored nofollow noopener" target="_blank">{{ program.name }} link</a> and complete a qualifying booking or list a new RV, RVLastMinute may receive a commission.
+      {% if program.impressionPixel %}
+      <img src="{{ program.impressionPixel }}" width="1" height="1" border="0" alt="" />
+      {% endif %}
       {% else %}
       — The button currently goes to that company’s <a href="{{ program.publicUrl }}" rel="noopener">public website</a>. It is a placeholder until an affiliate link is approved{% if program.programUrl %} through <a href="{{ program.programUrl }}" rel="noopener">the official program or public page</a>{% endif %}. We will not present a placeholder as a tracked affiliate URL.
       {% endif %}
     </li>
     {% endfor %}
   </ul>
-  <p>RVshare’s official affiliates page, checked November 18, 2026, publishes a 4% commission of completed booking value, a $7 commission for a new listing, a 30-day cookie, and a stated $900 average booking value. An official Outdoorsy page with a published commission rate was not verified in that pass, so we do not invent one.</p>
+  <p>RVshare’s official affiliates page, checked November 18, 2026, publishes a 4% commission of completed booking value, a $7 commission for a new listing, a 30-day cookie, and a stated $900 average booking value. An official Outdoorsy page with a published commission rate was not verified in that pass, so we do not invent one. Commission figures can change; the advertiser and network dashboards are the live source.</p>
 
   <h2>Depot links are not affiliate links</h2>
   <p>Links to Cruise America, El Monte RV, Road Bear RV, and local fleet pages are ordinary deep links to those companies’ public sites. We did not find official publisher programs with published conversion terms for those operators in the November 18, 2026 research pass, and we will not invent one.</p>

@@ -9,7 +9,10 @@
  * Affiliate `url` values stay empty until a program issues a tracked
  * link. Templates must then fall back to `publicUrl` as a plain
  * (non-affiliate) link. Do not present an empty or public URL as a
- * tracked affiliate link.
+ * tracked affiliate link. `featuredMarketplaces` is the list of
+ * affiliate ids shown in the shared city and homepage callout once
+ * those programs have a tracked URL, so new nightly city pages
+ * inherit them automatically.
  *
  * Traditional rental operators (Cruise America, El Monte RV, Road Bear,
  * and local fleets) are linked as plain depot pages. No official
@@ -33,6 +36,38 @@ function pathPrefixFromUrl(value) {
   return pathname.endsWith("/") ? pathname : `${pathname}/`;
 }
 
+function isTrackedAffiliate(program) {
+  return Boolean(program && String(program.url || "").trim());
+}
+
+const featuredMarketplaces = ["rvshare"];
+
+const affiliates = {
+  rvshare: {
+    id: "rvshare",
+    name: "RVshare",
+    url: "https://www.dpbolvw.net/click-101933290-13773430",
+    publicUrl: "https://rvshare.com/",
+    programUrl: "https://rvshare.com/affiliates",
+    impressionPixel: "https://www.ftjcfx.com/image-101933290-13773430",
+    featuredTitle: "Book a last-minute RV on RVshare",
+    featuredBody:
+      "RVshare is a peer-to-peer RV rental marketplace. Owners list motorhomes, travel trailers, and other rigs that you can search by city and travel dates. That live inventory is the place to check what is actually bookable this weekend; this directory does not cache current availability or rates.",
+  },
+  outdoorsy: {
+    id: "outdoorsy",
+    name: "Outdoorsy",
+    url: "",
+    publicUrl: "https://www.outdoorsy.com/",
+    programUrl: "https://www.outdoorsy.com/",
+  },
+};
+
+const featuredMarketplacePrograms = featuredMarketplaces
+  .map((id) => affiliates[id])
+  .filter(isTrackedAffiliate);
+const featuredMarketplaceIds = featuredMarketplacePrograms.map((program) => program.id);
+
 export default {
   name: "RVLastMinute",
   tagline: "Find a last-minute RV rental from verified depots, plus live peer-to-peer inventory.",
@@ -47,20 +82,10 @@ export default {
   emailsArePlaceholders: false,
   disclosure:
     "RVLastMinute may earn a commission if you use an approved affiliate link, at no extra cost to you. Until a program approves a tracked URL, buttons go to that company’s public website and are not affiliate links. Individual RV dealer and depot pages are ordinary public links, not affiliate offers.",
-  affiliates: {
-    rvshare: {
-      id: "rvshare",
-      name: "RVshare",
-      url: "",
-      publicUrl: "https://rvshare.com/",
-      programUrl: "https://rvshare.com/affiliates",
-    },
-    outdoorsy: {
-      id: "outdoorsy",
-      name: "Outdoorsy",
-      url: "",
-      publicUrl: "https://www.outdoorsy.com/",
-      programUrl: "https://www.outdoorsy.com/",
-    },
-  },
+  disclosureShort:
+    "Some links are affiliate links; we may earn a commission at no cost to you.",
+  featuredMarketplaces,
+  featuredMarketplacePrograms,
+  featuredMarketplaceIds,
+  affiliates,
 };

@@ -1,15 +1,26 @@
 <aside class="affiliate-box" aria-labelledby="affiliate-heading">
+  {% include "partials/featured-marketplace.njk" %}
+  {% if not site.featuredMarketplacePrograms or site.featuredMarketplacePrograms.length == 0 %}
   <h2 id="affiliate-heading">Live inventory on peer-to-peer platforms</h2>
   <p>Dealer and depot listings below do not show which rigs are free this weekend. Peer-to-peer platforms publish live, date-specific search. Search your city and dates there for current availability, delivery, and pet filters.</p>
   <p class="disclosure">{{ site.disclosure }}</p>
+  {% else %}
+  <h2 id="affiliate-heading">Other peer-to-peer platforms</h2>
+  <p>Dealer and depot listings on this site do not show which rigs are free this weekend. Peer-to-peer platforms publish live, date-specific search. Search your city and dates there for current availability, delivery, and pet filters.</p>
+  {% endif %}
   <ul class="affiliate-links">
     {% for key, program in site.affiliates %}
+    {% if program.id not in site.featuredMarketplaceIds %}
     <li>
-      <a class="button" href="{{ program | affiliateHref }}" {% if program | affiliateIsTracked %}rel="sponsored nofollow noopener"{% else %}rel="noopener"{% endif %} target="_blank">{{ program.name }}</a>
+      <a class="button{% if program | affiliateIsTracked %}{% else %} button-secondary{% endif %}" href="{{ program | affiliateHref }}" {% if program | affiliateIsTracked %}rel="sponsored nofollow noopener"{% else %}rel="noopener"{% endif %} target="_blank">{{ program.name }}</a>
+      {% if program.impressionPixel and program | affiliateIsTracked %}
+      <img src="{{ program.impressionPixel }}" width="1" height="1" border="0" alt="" />
+      {% endif %}
       {% if not (program | affiliateIsTracked) %}
       <span class="muted small">Public website — not a tracked affiliate link yet.</span>
       {% endif %}
     </li>
+    {% endif %}
     {% endfor %}
   </ul>
 </aside>

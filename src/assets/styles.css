@@ -301,6 +301,31 @@ h2 {
 }
 .affiliate-links li { display: flex; flex-wrap: wrap; gap: 0.4rem 0.7rem; align-items: center; }
 
+.featured-marketplace h2 { margin-top: 0.35rem; }
+.featured-marketplace p { max-width: 46rem; }
+.featured-marketplace + .featured-marketplace {
+  margin-top: 1.15rem;
+  padding-top: 1.15rem;
+  border-top: 1px solid var(--line);
+}
+.featured-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.2rem;
+  align-items: center;
+}
+.affiliate-box .featured-marketplace-list:not(:last-child) {
+  margin: 0 0 1.15rem;
+  padding: 0 0 1.15rem;
+  border-bottom: 1px solid var(--line);
+}
+.button-secondary {
+  background: transparent;
+  color: var(--ink);
+  border: 1px solid var(--ink);
+}
+.button-secondary:hover { color: var(--ink); opacity: 0.85; }
+
 .button {
   display: inline-block;
   background: var(--ink);

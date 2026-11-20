@@ -1,0 +1,18 @@
+{% if site.featuredMarketplacePrograms and site.featuredMarketplacePrograms.length %}
+<div class="featured-marketplace-list">
+  <p class="eyebrow">Featured marketplace{% if site.featuredMarketplacePrograms.length > 1 %}s{% endif %} · Advertisement</p>
+  {% for featured in site.featuredMarketplacePrograms %}
+  <div class="featured-marketplace">
+    <h2>{{ featured.featuredTitle or featured.name }}</h2>
+    <p>{{ featured.featuredBody }}</p>
+    <p class="featured-actions">
+      <a class="button" href="{{ featured | affiliateHref }}" rel="sponsored nofollow noopener" target="_blank">Visit {{ featured.name }}</a>
+      {% if featured.impressionPixel %}
+      <img src="{{ featured.impressionPixel }}" width="1" height="1" border="0" alt="" />
+      {% endif %}
+    </p>
+  </div>
+  {% endfor %}
+  <p class="disclosure">{{ site.disclosureShort or site.disclosure }} See the <a href="/affiliate-disclosure/">affiliate disclosure</a>.</p>
+</div>
+{% endif %}
