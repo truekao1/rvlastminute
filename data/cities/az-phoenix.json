@@ -1,0 +1,284 @@
+{
+ "slug": "az-phoenix",
+ "city": "Phoenix",
+ "citySlug": "phoenix",
+ "state": "AZ",
+ "stateName": "Arizona",
+ "focus": "Phoenix metro, including a Cruise America depot in Mesa",
+ "lastUpdated": "2026-11-19",
+ "intro": "These Phoenix-area listings were checked on operator-owned pages on November 19, 2026. Phoenix is a winter RV gateway to the Grand Canyon, Sedona, and the Arizona State Fair, and it mixes national fleets (Cruise America in Mesa, plus Indie Campers, roadsurfer, Blacksford, and Native Campervans near Sky Harbor) with long-running local fleets on the west and north sides. Hours are copied only where an operator publishes them; several local sites do not, so those rows say Not published. One-way, pet, and delivery flags are set only when the operator’s own page says so. This is a starting sample, not a valley-wide inventory, and it does not cache live RV availability. Peer-to-peer platforms such as RVshare and Outdoorsy show live inventory for a specific weekend. If a price appears, it is labeled as listed on a date.",
+ "listings": [
+  {
+   "name": "Cruise America — Phoenix (Mesa)",
+   "area": "Mesa (East Valley)",
+   "address": "11 West Hampton Ave., Mesa, AZ 85210",
+   "phone": "(480) 464-7410",
+   "website": "https://www.cruiseamerica.com/rv-rental-locations/arizona/phoenix-mesa",
+   "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/arizona/phoenix-mesa",
+   "hours": {
+    "monday": "8:00 AM – 5:00 PM",
+    "tuesday": "8:00 AM – 5:00 PM",
+    "wednesday": "8:00 AM – 5:00 PM",
+    "thursday": "8:00 AM – 5:00 PM",
+    "friday": "8:00 AM – 5:00 PM",
+    "saturday": "8:00 AM – 5:00 PM",
+    "sunday": "Closed",
+    "notes": "These are the rental hours on the official Phoenix (Mesa) location page. The same page lists separate sales hours starting at 8:30 AM. The depot is in Mesa, east of Phoenix."
+   },
+   "flags": {
+    "oneWay": true,
+    "weekendHours": true,
+    "petFriendly": true,
+    "delivery": false
+   },
+   "offersNotes": "The official Phoenix location FAQ says Cruise America offers one-way rentals (additional fees may apply; discounts on some routes) and pet-friendly RV rentals. Confirm the route and pet rules when you book.",
+   "visitNotes": "The page calls this the Phoenix RV Sales and Rental Center. The phone shown is the rentals line.",
+   "sources": [
+    {
+     "label": "Cruise America Phoenix (Mesa) location page",
+     "url": "https://www.cruiseamerica.com/rv-rental-locations/arizona/phoenix-mesa"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-19"
+  },
+  {
+   "name": "Blacksford — Phoenix RV Rentals",
+   "area": "South Phoenix near Sky Harbor (Chipman Rd)",
+   "address": "3670 E Chipman Rd, Phoenix, AZ 85040",
+   "phone": "702-766-4415",
+   "website": "https://www.blacksford.com/phoenix-rv-rentals",
+   "bookingUrl": "https://www.blacksford.com/phoenix-rv-rentals",
+   "hours": {
+    "monday": "8:00 AM – 6:00 PM",
+    "tuesday": "8:00 AM – 6:00 PM",
+    "wednesday": "8:00 AM – 6:00 PM",
+    "thursday": "8:00 AM – 6:00 PM",
+    "friday": "8:00 AM – 6:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "8:00 AM – 6:00 PM",
+    "notes": "The operator’s Phoenix page lists hours as 8am–6pm daily."
+   },
+   "flags": {
+    "oneWay": true,
+    "weekendHours": true,
+    "petFriendly": true,
+    "delivery": false
+   },
+   "offersNotes": "The Phoenix page says one-way rentals between Las Vegas, Bozeman, Phoenix, and Seattle are available on request, and that well-behaved dogs under 75 pounds are welcome with prior approval (cats and other animals are not allowed).",
+   "visitNotes": "The page offers free transport to and from Phoenix Sky Harbor; text or call when you land. It also lists a WhatsApp number, +1 406-300-5715.",
+   "feeNotes": "Pet fee as listed on 2026-11-19: $50/day (max $250 per rental), plus a $2,000 refundable security deposit; a $500 cleaning fee may apply for pet damage or excessive dirt or fur.",
+   "sources": [
+    {
+     "label": "Blacksford Phoenix RV rentals page",
+     "url": "https://www.blacksford.com/phoenix-rv-rentals"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-19"
+  },
+  {
+   "name": "Indie Campers — Phoenix",
+   "area": "Near Sky Harbor (N 30th St)",
+   "address": "119 North 30th Street, Phoenix, AZ 85034",
+   "phone": "+1 (602) 921-0194",
+   "website": "https://indiecampers.com/discover/en-us/rent-an-rv/phoenix",
+   "bookingUrl": "https://indiecampers.com/discover/en-us/rent-an-rv/phoenix",
+   "hours": {
+    "monday": "8:00 AM – 6:00 PM",
+    "tuesday": "8:00 AM – 6:00 PM",
+    "wednesday": "8:00 AM – 6:00 PM",
+    "thursday": "8:00 AM – 6:00 PM",
+    "friday": "8:00 AM – 6:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "8:00 AM – 6:00 PM",
+    "notes": "Taken from the opening hours (08:00–18:00, Monday–Sunday) published in the structured location data on the operator’s Phoenix page."
+   },
+   "flags": {
+    "oneWay": true,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The Phoenix page describes one-way rentals from Phoenix across its network and says one-way fees vary by route and season. Pets are not mentioned on the page.",
+   "visitNotes": "Campervan and RV rental station operated by Indie Campers.",
+   "sources": [
+    {
+     "label": "Indie Campers Phoenix page",
+     "url": "https://indiecampers.com/discover/en-us/rent-an-rv/phoenix"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-19"
+  },
+  {
+   "name": "roadsurfer — Phoenix",
+   "area": "Near Sky Harbor (E Washington St)",
+   "address": "2429 E Washington St, Phoenix, AZ 85034",
+   "website": "https://roadsurfer.com/rv-rental/usa/arizona/phoenix/",
+   "bookingUrl": "https://roadsurfer.com/rv-rental/usa/arizona/phoenix/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The operator’s Phoenix page does not publish station hours. Pick-up and drop-off times are set in the booking."
+   },
+   "flags": {
+    "oneWay": true,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The Phoenix page says you can book a one-way rental by selecting a different return station during booking. Pets and delivery are not mentioned.",
+   "visitNotes": "From the airport, the page says to take the Metro Parkway (PKWY) Rail to the 24th St./Washington stop, a short walk from the station. It notes nearby long-term parking costs a fee.",
+   "sources": [
+    {
+     "label": "roadsurfer Phoenix station page",
+     "url": "https://roadsurfer.com/rv-rental/usa/arizona/phoenix/"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-19"
+  },
+  {
+   "name": "Native Campervans — Phoenix",
+   "area": "East Van Buren St (east Phoenix)",
+   "address": "4728 E Van Buren Street, Phoenix, AZ 85008",
+   "phone": "(877) 550-5335",
+   "website": "https://nativecampervans.com/phoenix-arizona/",
+   "bookingUrl": "https://nativecampervans.com/phoenix-arizona/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The operator’s Phoenix page does not publish pick-up hours."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The page links to a one-way campervan rentals section, but it does not say one-way rentals apply to Phoenix, so we did not set the one-way flag. Pets and delivery are not mentioned.",
+   "visitNotes": "Campervan rental location.",
+   "sources": [
+    {
+     "label": "Native Campervans Phoenix page",
+     "url": "https://nativecampervans.com/phoenix-arizona/"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-19"
+  },
+  {
+   "name": "Going Places RV Rentals",
+   "area": "North Phoenix (W Cactus Rd)",
+   "address": "1939 W. Cactus Rd., Phoenix, AZ 85029",
+   "phone": "623-221-1161",
+   "website": "https://www.goingplacesrv.com/",
+   "bookingUrl": "https://www.goingplacesrv.com/",
+   "hours": {
+    "monday": "8:00 AM – 4:00 PM",
+    "tuesday": "8:00 AM – 4:00 PM",
+    "wednesday": "8:00 AM – 4:00 PM",
+    "thursday": "8:00 AM – 4:00 PM",
+    "friday": "8:00 AM – 4:00 PM",
+    "saturday": "By appointment",
+    "sunday": "By appointment",
+    "notes": "The operator’s site lists Monday–Friday 8am–4pm and “Weekends By Appointment Only.”"
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The site describes Class A and Class C motorhomes, travel trailers, fifth wheels, and toy haulers. One-way, pets, and delivery are not mentioned.",
+   "visitNotes": "The site says the company has rented RVs in the Phoenix area since 2007.",
+   "sources": [
+    {
+     "label": "Going Places RV Rentals official site",
+     "url": "https://www.goingplacesrv.com/"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-19"
+  },
+  {
+   "name": "Arizona Adventure Rentals",
+   "area": "Central City South (S 19th Ave)",
+   "address": "1712 S. 19th Ave., Phoenix, AZ 85009",
+   "phone": "480-309-4346",
+   "website": "http://arizonaadventurerentals.com/",
+   "bookingUrl": "http://arizonaadventurerentals.com/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The operator’s site does not publish hours."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "One-way, pets, and delivery are not mentioned on the operator’s home page.",
+   "visitNotes": "The site lists 1712 S. 19th Ave. as its main location and a separate office at 910 North Loma Vista, Mesa, AZ 85213.",
+   "sources": [
+    {
+     "label": "Arizona Adventure Rentals official site",
+     "url": "http://arizonaadventurerentals.com/"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-19"
+  },
+  {
+   "name": "Elite RV Rentals",
+   "area": "West Phoenix (W Indian School Rd)",
+   "address": "3601 W. Indian School Rd., Phoenix, AZ 85019",
+   "phone": "(602) 773-1883",
+   "website": "http://www.elitervrentals.net/",
+   "bookingUrl": "http://www.elitervrentals.net/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The operator’s home page does not publish hours."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The site says it rents RVs, trailers, and toy haulers. One-way, pets, and delivery are not mentioned on the home page.",
+   "visitNotes": "Family-owned rental company per its site.",
+   "sources": [
+    {
+     "label": "Elite RV Rentals official site",
+     "url": "http://www.elitervrentals.net/"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-19"
+  }
+ ]
+}
