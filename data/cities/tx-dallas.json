@@ -1,0 +1,339 @@
+{
+  "slug": "tx-dallas",
+  "city": "Dallas–Fort Worth",
+  "citySlug": "dallas",
+  "state": "TX",
+  "stateName": "Texas",
+  "focus": "Dallas–Fort Worth metro, including East Dallas, McKinney, Rockwall, Hickory Creek, Trophy Club, Haslet, and Fort Worth",
+  "lastUpdated": "2026-11-20",
+  "intro": "These Dallas–Fort Worth listings were checked on operator-owned pages on November 20, 2026. DFW is the fourth-largest U.S. metro, and its depots are spread out: Cruise America is in East Dallas, El Monte RV is up US-75 in McKinney, roadsurfer is near DFW Airport, Indie Campers and Sportsman’s RV are in Fort Worth, and local fleets work out of Rockwall, Hickory Creek, Trophy Club, and Haslet. Several local operators deliver, and a few publish no office hours, so call before a weekend pickup. Hours and flags are copied only from those pages. This is a starting sample, not a metro-wide inventory, and it does not cache live RV availability. Peer-to-peer platforms such as RVshare and Outdoorsy show live inventory for a specific weekend. If a price appears, it is labeled as listed on a date.",
+  "listings": [
+    {
+      "name": "Cruise America — Dallas (Samuell Blvd)",
+      "area": "East Dallas, off Samuell Blvd near I-30",
+      "address": "2908 Samuell Blvd #100, Dallas, TX 75223",
+      "phone": "(817) 714-2545",
+      "website": "https://www.cruiseamerica.com/rv-rental-locations/texas/dallas",
+      "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/texas/dallas",
+      "hours": {
+        "monday": "9:00 AM – 5:00 PM",
+        "tuesday": "9:00 AM – 5:00 PM",
+        "wednesday": "9:00 AM – 5:00 PM",
+        "thursday": "9:00 AM – 5:00 PM",
+        "friday": "9:00 AM – 5:00 PM",
+        "saturday": "9:00 AM – 12:00 PM",
+        "sunday": "Closed",
+        "notes": "These are the rental hours on the official Dallas page, checked November 20, 2026. The page lists the depot as “Swif-T RV Rental Center.” Its title says “Love Field,” but the street address is on Samuell Blvd in East Dallas. Confirm hours before you arrive."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "The Dallas page we checked did not say anything about one-way or pet rules for this depot, so those flags are left off. Ask about both when you book.",
+      "visitNotes": "The official page lists 30-foot Large and 25-foot Standard motorhomes in its Dallas inventory section.",
+      "sources": [
+        {
+          "label": "Cruise America Dallas location page",
+          "url": "https://www.cruiseamerica.com/rv-rental-locations/texas/dallas"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-20",
+      "feeNotes": null
+    },
+    {
+      "name": "El Monte RV — Dallas (McKinney)",
+      "area": "McKinney, on US-75 north of Dallas",
+      "address": "3500 S Central Expy, McKinney, TX 75070",
+      "phone": "+1 (972) 562-1900",
+      "website": "https://www.elmonterv.com/rv-rental-locations/dallas-texas",
+      "bookingUrl": "https://www.elmonterv.com/rv-rental-locations/dallas-texas",
+      "hours": {
+        "monday": "9:00 AM – 4:00 PM",
+        "tuesday": "9:00 AM – 4:00 PM",
+        "wednesday": "9:00 AM – 4:00 PM",
+        "thursday": "9:00 AM – 4:00 PM",
+        "friday": "9:00 AM – 4:00 PM",
+        "saturday": "9:00 AM – 4:00 PM",
+        "sunday": "Closed",
+        "notes": "The official Dallas page lists the same hours for Oct 1–Mar 31 and Apr 1–Sep 30: Mon–Fri 9:00 AM–4:00 PM, Saturday 9:00 AM–4:00 PM, Sunday closed. It also lists holiday closures, including Thanksgiving Day and Christmas Day. Pickup is listed as after 1:00 PM on weekdays and drop-off as before 10:00 AM. The page says after-hours pickups are not possible. The depot is in McKinney, about 35 miles from DFW Airport per the page."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "El Monte RV’s official one-way page lists Dallas among its locations and suggests a one-way itinerary that starts in Dallas. It says one-way rentals are often possible but may carry a surcharge. Confirm the route and any fee when you book.",
+      "feeNotes": "The official Dallas page lists a $1,500 security deposit due at pickup and a $50 fee for each extra hour after your scheduled drop-off time, as listed on November 20, 2026.",
+      "visitNotes": "You pick your pickup and drop-off time slots during online self check-in, which opens 30 days before arrival. The page says parking for your own car varies by location, so call ahead.",
+      "sources": [
+        {
+          "label": "El Monte RV Dallas location page",
+          "url": "https://www.elmonterv.com/rv-rental-locations/dallas-texas"
+        },
+        {
+          "label": "El Monte RV one-way rentals page",
+          "url": "https://www.elmonterv.com/one-way-rv-rentals"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-20"
+    },
+    {
+      "name": "Indie Campers — Dallas (Fort Worth)",
+      "area": "Fort Worth, west of downtown Fort Worth",
+      "address": "324 Greenleaf St, Fort Worth, TX 76107",
+      "website": "https://indiecampers.com/discover/en-us/rent-an-rv/dallas",
+      "bookingUrl": "https://indiecampers.com/discover/en-us/rent-an-rv/dallas",
+      "hours": {
+        "monday": "8:00 AM – 6:00 PM",
+        "tuesday": "8:00 AM – 6:00 PM",
+        "wednesday": "8:00 AM – 6:00 PM",
+        "thursday": "8:00 AM – 6:00 PM",
+        "friday": "8:00 AM – 6:00 PM",
+        "saturday": "8:00 AM – 6:00 PM",
+        "sunday": "8:00 AM – 6:00 PM",
+        "notes": "Hours come from the structured data on the official Dallas page (Monday–Sunday, 08:00–18:00). The depot is in Fort Worth, even though the page calls it Indie Campers Dallas. Confirm pickup and return windows when you book."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "The official Dallas page’s description advertises one-way rentals and unlimited mileage. Confirm the route, fees, and mileage terms when you book.",
+      "visitNotes": "The official page lists the Greenleaf St address under “Indie Campers Dallas.”",
+      "sources": [
+        {
+          "label": "Indie Campers Dallas page",
+          "url": "https://indiecampers.com/discover/en-us/rent-an-rv/dallas"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-20",
+      "feeNotes": null,
+      "phone": null
+    },
+    {
+      "name": "roadsurfer — Dallas station",
+      "area": "Near DFW Airport, about 10 minutes from the airport per the operator",
+      "address": "12114 S Pipeline Rd, Suite 200, Fort Worth, TX 76040",
+      "website": "https://roadsurfer.com/rv-rental/usa/texas/dallas/",
+      "bookingUrl": "https://roadsurfer.com/rv-rental/usa/texas/dallas/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official Dallas station page we checked did not list opening hours. Confirm pickup and return times when you book."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": false,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "The station page links to “Rally one-way deals” in the menu, but it did not say one-way trips run from this station, so the one-way flag is off. Ask when you book.",
+      "visitNotes": "The station page says parking there is limited because it is in a shared office park. For longer trips it suggests parking at a nearby long-term lot and taking a short Uber or taxi ride. It says the station is about 25–30 minutes from downtown Dallas and from Love Field.",
+      "sources": [
+        {
+          "label": "roadsurfer Dallas station page",
+          "url": "https://roadsurfer.com/rv-rental/usa/texas/dallas/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-20",
+      "feeNotes": null,
+      "phone": null
+    },
+    {
+      "name": "DFW RV Rentals — Haslet pickup",
+      "area": "Haslet, north Fort Worth area",
+      "address": "12500 Willow Springs Rd, Haslet, TX 76052",
+      "phone": "(817) 523-1998",
+      "website": "https://www.dfw-rvrentals.com/",
+      "bookingUrl": "https://www.dfw-rvrentals.com/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator does not publish office hours. Its FAQ says pickup starts at 7:00 AM and returns are due by 5:00 PM; returns from 5:00 PM to 9:00 PM are charged a half day, and returns after 9:00 PM a full day. The contact page lists the office separately at 9848 Yellow Cup Dr, Fort Worth, TX 76177."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": false,
+        "petFriendly": false,
+        "delivery": true
+      },
+      "offersNotes": "The official FAQ says the company delivers to the location of your choice.",
+      "feeNotes": "The official FAQ lists delivery from $250 within 20 miles plus $5 per extra mile, 100 miles per day included with extra miles at $1.00 to $1.70 depending on the unit, and four generator hours per day with extra use averaging $5 per hour, all as listed on November 20, 2026.",
+      "visitNotes": "The site offers Class A and Class C motorhomes and long-term rentals. The FAQ says pickup includes a 30–60 minute walkthrough for first-time renters.",
+      "sources": [
+        {
+          "label": "DFW RV Rentals contact page",
+          "url": "https://www.dfw-rvrentals.com/contact"
+        },
+        {
+          "label": "DFW RV Rentals home page and FAQ",
+          "url": "https://www.dfw-rvrentals.com/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-20"
+    },
+    {
+      "name": "Suite Glamping Adventures — Trophy Club",
+      "area": "Trophy Club, northwest of DFW Airport",
+      "address": "3 Spyglass Court, Trophy Club, TX 76262",
+      "phone": "612-251-6944",
+      "website": "https://suiteglampingadventures.com/",
+      "bookingUrl": "https://suiteglampingadventures.com/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator does not publish office hours. Its site says to email or call (call and text) and offers 24/7 support during a rental."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": false,
+        "petFriendly": false,
+        "delivery": true
+      },
+      "offersNotes": "The official site says delivery is available if you ask, and lists RV delivery as an add-on.",
+      "feeNotes": "The official site lists RV delivery at $100.00, additional miles over 100 per day at $0.55, and a black-tank emptying service at $100.00, as listed on November 20, 2026. Its intro also says direct bookings include 150 miles per day; confirm which mileage rule applies when you book.",
+      "visitNotes": "A family-owned company. The site says its Class C fleet is 2023 Thor Freedom Elite models from 22 to 31 feet, plus a teardrop trailer.",
+      "sources": [
+        {
+          "label": "Suite Glamping Adventures official site",
+          "url": "https://suiteglampingadventures.com/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-20"
+    },
+    {
+      "name": "Southwest RV Rentals — Hickory Creek",
+      "area": "Hickory Creek, on I-35E between Lewisville and Denton",
+      "address": "6060 S. Stemmons Fwy, Hickory Creek, TX 75065",
+      "phone": "972-221-2023",
+      "website": "https://southwestrvrentals.net/",
+      "bookingUrl": "https://southwestrvrentals.net/",
+      "hours": {
+        "monday": "9:00 AM – 6:00 PM",
+        "tuesday": "9:00 AM – 6:00 PM",
+        "wednesday": "9:00 AM – 6:00 PM",
+        "thursday": "9:00 AM – 6:00 PM",
+        "friday": "9:00 AM – 6:00 PM",
+        "saturday": "11:00 AM – 3:00 PM",
+        "sunday": "Not published",
+        "notes": "The official site lists Mon–Fri 9 AM–6 PM and Saturday 11 AM–3 PM. It does not list Sunday hours."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": true
+      },
+      "offersNotes": "The official site advertises free delivery to Hickory Creek State Park, Pilot Knoll Park, Willow Grove Park, and Lake Park, plus unlimited mileage and no generator fees on its rentals.",
+      "visitNotes": "The fleet includes Class A diesel and gas motorhomes, Class C motorhomes, and travel trailers. The site says it rents for Cowboys games and Texas Motor Speedway races.",
+      "sources": [
+        {
+          "label": "Southwest RV Rentals official site",
+          "url": "https://southwestrvrentals.net/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-20",
+      "feeNotes": null
+    },
+    {
+      "name": "Quest RV Rental — Rockwall",
+      "area": "Rockwall, off I-30 east of Dallas",
+      "address": "368 National Dr., Rockwall, TX 75032",
+      "phone": "(972) 722-8311",
+      "website": "https://questrv.com/",
+      "bookingUrl": "https://questrv.com/",
+      "hours": {
+        "monday": "8:00 AM – 5:00 PM",
+        "tuesday": "8:00 AM – 5:00 PM",
+        "wednesday": "8:00 AM – 5:00 PM",
+        "thursday": "8:00 AM – 5:00 PM",
+        "friday": "8:00 AM – 5:00 PM",
+        "saturday": "By appointment only",
+        "sunday": "By appointment only",
+        "notes": "The official site lists Monday–Friday 8:00 AM–5:00 PM (CST) and Saturday–Sunday by appointment only. It says renters can reach staff on a weekend and after-hours number during a trip."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "visitNotes": "A family business about 20 minutes from Dallas per the site, renting motorhomes and trailers. It says pickup includes a walkthrough of the unit.",
+      "sources": [
+        {
+          "label": "Quest RV Rental About page",
+          "url": "https://questrv.com/about-us/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-20",
+      "offersNotes": null,
+      "feeNotes": null
+    },
+    {
+      "name": "Sportsman’s RV Rentals — Fort Worth",
+      "area": "Southeast Fort Worth, off Dick Price Rd",
+      "address": "5015 Dick Price Road, Fort Worth, TX 76140",
+      "phone": "817-372-2157",
+      "website": "https://www.sportsmansrvrentals.com/",
+      "bookingUrl": "https://www.sportsmansrvrentals.com/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official site does not publish office or pickup hours. Call to set a pickup time."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": false,
+        "petFriendly": false,
+        "delivery": true
+      },
+      "offersNotes": "The official About page says the company can deliver a travel trailer to your campsite, set it up, and pick it up when you are done.",
+      "feeNotes": "The official About page lists delivery at $7.00 per mile one way, including delivery, set-up, and pick-up, as listed on November 20, 2026.",
+      "visitNotes": "The site says the company is co-located with Fort Worth RV and Boat Storage and rents Class A, Class B, and Class C motorhomes, travel trailers, and fifth wheels.",
+      "sources": [
+        {
+          "label": "Sportsman’s RV Rentals About page",
+          "url": "https://www.sportsmansrvrentals.com/about"
+        },
+        {
+          "label": "Sportsman’s RV Rentals home page",
+          "url": "https://www.sportsmansrvrentals.com/"
+        }
+      ],
+      "category": "rv-rental",
+      "lastChecked": "2026-11-20"
+    }
+  ]
+}
