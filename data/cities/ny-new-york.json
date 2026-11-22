@@ -1,0 +1,300 @@
+{
+ "slug": "ny-new-york",
+ "city": "New York",
+ "citySlug": "new-york",
+ "state": "NY",
+ "stateName": "New York",
+ "focus": "New York metro depots on Long Island (Bay Shore, Middle Island) and in northern New Jersey (Linden, Carlstadt, Jersey City, Sussex)",
+ "lastUpdated": "2026-11-21",
+ "intro": "These New York listings were checked on operator-owned pages on November 21, 2026. The largest U.S. metro has no big RV depot inside the five boroughs, so pickups happen on Long Island or across the Hudson: Cruise America runs two Long Island depots in Bay Shore and Middle Island, El Monte RV and Road Bear RV share a depot in Linden, New Jersey, Indie Campers is in Carlstadt near the Meadowlands, two campervan brands list a Jersey City address, and 84 RV Rentals is out in Sussex, New Jersey. Winter hours are short — the Linden depot is closed Wednesdays and weekends until April — so check the day before you plan a weekend trip. Hours and flags are copied only from those pages. This is a starting sample, not a metro-wide inventory, and it does not cache live RV availability. Peer-to-peer platforms such as RVshare and Outdoorsy show live inventory for a specific weekend. If a price appears, it is labeled as listed on a date.",
+ "listings": [
+  {
+   "name": "Cruise America — Islip (Bay Shore)",
+   "area": "Bay Shore, Long Island, on Sunrise Hwy (Suffolk County)",
+   "address": "1490 Sunrise Hwy, Bay Shore, NY 11706",
+   "phone": "(631) 667-2342",
+   "website": "https://www.cruiseamerica.com/rv-rental-locations/new-york/islip-bayshore",
+   "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/new-york/islip-bayshore",
+   "hours": {
+    "monday": "8:00 AM – 6:00 PM",
+    "tuesday": "8:00 AM – 6:00 PM",
+    "wednesday": "8:00 AM – 6:00 PM",
+    "thursday": "8:00 AM – 6:00 PM",
+    "friday": "8:00 AM – 6:00 PM",
+    "saturday": "8:00 AM – 4:00 PM",
+    "sunday": "9:00 AM – 3:00 PM",
+    "notes": "These are the rental hours on the official Islip (Bayshore) page, checked November 21, 2026. The page lists the depot as “BBQ World RV Rental Center.” Confirm hours before you arrive."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The location page we checked did not say anything about one-way or pet rules for this depot, so those flags are left off. Ask about both when you book.",
+   "visitNotes": "The official page lists 21-, 25-, and 30-foot motorhomes (C21, C25, C30) in this depot’s rental fleet. Open Saturday and Sunday per the page.",
+   "sources": [
+    {
+     "label": "Cruise America Islip (Bayshore) location page",
+     "url": "https://www.cruiseamerica.com/rv-rental-locations/new-york/islip-bayshore"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-21",
+   "feeNotes": null
+  },
+  {
+   "name": "Cruise America — Middle Island",
+   "area": "Middle Island, Long Island, on Middle Country Rd (Suffolk County)",
+   "address": "141 Middle Country Rd, Middle Island, NY 11953",
+   "phone": "(631) 345-2532",
+   "website": "https://www.cruiseamerica.com/rv-rental-locations/new-york/middle-island",
+   "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/new-york/middle-island",
+   "hours": {
+    "monday": "7:30 AM – 5:00 PM",
+    "tuesday": "7:30 AM – 5:00 PM",
+    "wednesday": "7:30 AM – 5:00 PM",
+    "thursday": "7:30 AM – 5:00 PM",
+    "friday": "7:30 AM – 5:00 PM",
+    "saturday": "9:00 AM – 2:00 PM",
+    "sunday": "Closed",
+    "notes": "These are the rental hours on the official Middle Island page, checked November 21, 2026. The page lists the depot as “Middle Island Equipment Corp RV Rental Center.” Confirm hours before you arrive."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The location page we checked did not say anything about one-way or pet rules for this depot, so those flags are left off. Ask about both when you book.",
+   "visitNotes": "Open Saturday until 2:00 PM and closed Sunday per the page.",
+   "sources": [
+    {
+     "label": "Cruise America Middle Island location page",
+     "url": "https://www.cruiseamerica.com/rv-rental-locations/new-york/middle-island"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-21",
+   "feeNotes": null
+  },
+  {
+   "name": "El Monte RV — New York (Linden, NJ)",
+   "area": "Linden, New Jersey, about 10 miles from Newark Airport per the page",
+   "address": "3401 Tremley Point Rd., Linden, NJ 07036",
+   "phone": "+1 (908) 474-9000",
+   "website": "https://www.elmonterv.com/rv-rental-locations/new-york-new-jersey",
+   "bookingUrl": "https://www.elmonterv.com/rv-rental-locations/new-york-new-jersey",
+   "hours": {
+    "monday": "9:00 AM – 4:00 PM",
+    "tuesday": "9:00 AM – 4:00 PM",
+    "wednesday": "Closed",
+    "thursday": "9:00 AM – 4:00 PM",
+    "friday": "9:00 AM – 4:00 PM",
+    "saturday": "Closed",
+    "sunday": "Closed",
+    "notes": "Current season (October 1–March 31) on the official New York page: Monday–Tuesday 9:00 AM–4:00 PM, Wednesday closed, Thursday–Friday 9:00 AM–4:00 PM, Saturday and Sunday closed. April 1–September 30: Monday–Friday 8:00 AM–5:00 PM, Saturday 8:00 AM–1:00 PM, Sunday closed. Holiday closures include Thanksgiving Day and Christmas Day. Standard pickup is after 1:00 PM on weekdays; the page says after-hours pickups are not possible."
+   },
+   "flags": {
+    "oneWay": true,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "El Monte RV’s official one-way page lists New York among its locations. Confirm the route and any one-way fee when you book.",
+   "feeNotes": "The official New York page lists a $1,500 security deposit due at pickup, as listed on November 21, 2026.",
+   "visitNotes": "The depot is in Linden, New Jersey, about 31.9 miles from JFK per the page. You pick pickup and drop-off time slots during online self check-in, which opens 30 days before arrival. No weekend pickups in the current season.",
+   "sources": [
+    {
+     "label": "El Monte RV New York location page",
+     "url": "https://www.elmonterv.com/rv-rental-locations/new-york-new-jersey"
+    },
+    {
+     "label": "El Monte RV one-way rentals page",
+     "url": "https://www.elmonterv.com/one-way-rv-rentals"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Road Bear RV — New York (Linden, NJ)",
+   "area": "Linden, New Jersey, about 20 miles from Newark Airport per the page",
+   "address": "3401 Tremley Point Rd, Linden, NJ 07036",
+   "phone": "+1 (732) 495-0959",
+   "website": "https://www.roadbearrv.com/rv-rental-locations/new-york",
+   "bookingUrl": "https://www.roadbearrv.com/rv-rental-locations/new-york",
+   "hours": {
+    "monday": "9:00 AM – 4:00 PM",
+    "tuesday": "9:00 AM – 4:00 PM",
+    "wednesday": "Closed",
+    "thursday": "9:00 AM – 4:00 PM",
+    "friday": "9:00 AM – 4:00 PM",
+    "saturday": "Closed",
+    "sunday": "Closed",
+    "notes": "Current season (October 1–March 31) on the official New York page: Monday–Tuesday 9:00 AM–4:00 PM, Wednesday closed, Thursday–Friday 9:00 AM–4:00 PM, Saturday and Sunday closed. April 1–September 30: Monday–Friday 8:00 AM–5:00 PM, Saturday 8:00 AM–1:00 PM, Sunday closed."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The page links to one-way deals in its menu but does not say one-way rentals apply to this depot, so that flag is off. It shares a street address with El Monte RV’s New York depot. Ask about one-way routes and pets when you book.",
+   "feeNotes": null,
+   "visitNotes": "The page lists the direct branch number above and a toll-free number, 866-491-9853. It says shuttle transfers can be scheduled from select gateway airport hotels and some public transportation points if online check-in is completed 30 days before the rental, and notes that many airports allow drop-off only, not pickup.",
+   "sources": [
+    {
+     "label": "Road Bear RV New York location page",
+     "url": "https://www.roadbearrv.com/rv-rental-locations/new-york"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Indie Campers — New York (Carlstadt, NJ)",
+   "area": "Carlstadt, New Jersey (Meadowlands area)",
+   "address": "99 Kero Rd, Carlstadt, NJ 07072",
+   "phone": null,
+   "website": "https://indiecampers.com/discover/en-us/rent-an-rv/new-york",
+   "bookingUrl": "https://indiecampers.com/discover/en-us/rent-an-rv/new-york",
+   "hours": {
+    "monday": "8:00 AM – 6:00 PM",
+    "tuesday": "8:00 AM – 6:00 PM",
+    "wednesday": "8:00 AM – 6:00 PM",
+    "thursday": "8:00 AM – 6:00 PM",
+    "friday": "8:00 AM – 6:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "8:00 AM – 6:00 PM",
+    "notes": "Hours come from the structured data on the official New York page (Monday–Sunday, 08:00–18:00). The depot is in Carlstadt, New Jersey, even though the page calls it Indie Campers New York. Confirm pickup and return windows when you book."
+   },
+   "flags": {
+    "oneWay": true,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The official New York page’s description advertises one-way rentals. Confirm the route and fees when you book.",
+   "visitNotes": "The official page lists the Kero Rd address under “Indie Campers New York.” The site’s general help line is +1 855-785-5096.",
+   "sources": [
+    {
+     "label": "Indie Campers New York page",
+     "url": "https://indiecampers.com/discover/en-us/rent-an-rv/new-york"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-21",
+   "feeNotes": null
+  },
+  {
+   "name": "Avanti Campervans — Jersey City / New York",
+   "area": "Jersey City, New Jersey",
+   "address": "111 Town Square Place, Suite 1203, Jersey City, NJ 07310",
+   "phone": "774-728-2684",
+   "website": "https://avanticampervans.com/avanti-locations/jersey-city",
+   "bookingUrl": "https://avanticampervans.com/avanti-locations/jersey-city",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The Jersey City page does not publish depot hours. The street address is the one printed on the page; confirm the exact pickup spot when you book."
+   },
+   "flags": {
+    "oneWay": true,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": true
+   },
+   "offersNotes": "The page says you can pick up from its Jersey City depot, connected by public transportation to all three NYC airports, or have the campervan delivered to your airport of arrival, and it invites one-way trips along the East Coast.",
+   "visitNotes": "Campervans rather than full-size motorhomes. Contact: service@avanticampervans.com.",
+   "sources": [
+    {
+     "label": "Avanti Campervans Jersey City page",
+     "url": "https://avanticampervans.com/avanti-locations/jersey-city"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-21",
+   "feeNotes": null
+  },
+  {
+   "name": "Escape Camper Vans — New York City (Jersey City)",
+   "area": "Jersey City, New Jersey",
+   "address": "111 Town Square Place, Suite 1203, Jersey City, NJ 07310",
+   "phone": null,
+   "website": "https://escapecampervans.com/locations/new-york-city-new-york/",
+   "bookingUrl": "https://escapecampervans.com/locations/new-york-city-new-york/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The NYC location page does not publish hours. It says more details about the Jersey City pickup location are provided at booking; the street address shown is the one printed on the page."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The page describes Class B camper van rentals from its Jersey City pickup location. One-way and pet rules were not stated on the page we checked.",
+   "visitNotes": "Confirm the pickup spot and time when you book.",
+   "sources": [
+    {
+     "label": "Escape Camper Vans New York City page",
+     "url": "https://escapecampervans.com/locations/new-york-city-new-york/"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-21",
+   "feeNotes": null
+  },
+  {
+   "name": "84 RV Rentals & Service — Sussex, NJ",
+   "area": "Sussex, northwest New Jersey",
+   "address": "120 Clove Rd, Sussex, NJ 07461",
+   "phone": "(973) 875-4961",
+   "website": "https://www.84rv.com/rv-rental/motorhome-rental/",
+   "bookingUrl": "https://www.84rv.com/rv-rental/motorhome-rental/",
+   "hours": {
+    "monday": "9:00 AM – 5:00 PM",
+    "tuesday": "9:00 AM – 5:00 PM",
+    "wednesday": "9:00 AM – 5:00 PM",
+    "thursday": "9:00 AM – 5:00 PM",
+    "friday": "9:00 AM – 5:00 PM",
+    "saturday": "10:00 AM – 2:00 PM",
+    "sunday": "Closed",
+    "notes": "Business hours from the official contact and directions page: Monday–Friday 9:00 AM–5:00 PM, Saturday 10:00 AM–2:00 PM, Sunday closed. The page also says rental drop-off is possible any day."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": true
+   },
+   "offersNotes": "The motorhome rental page says it rents Class C motorhomes with generators, offers flexible returns including Sunday drop-off, and offers delivery and pickup of its vehicles for a fee.",
+   "visitNotes": "The business also runs a campground, RV sales, service, and storage.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "84 RV Rentals motorhome rental page",
+     "url": "https://www.84rv.com/rv-rental/motorhome-rental/"
+    },
+    {
+     "label": "84 RV Rentals contact and directions page",
+     "url": "https://www.84rv.com/directions/"
+    }
+   ],
+   "category": "rv-rental",
+   "lastChecked": "2026-11-21"
+  }
+ ]
+}
