@@ -1,0 +1,370 @@
+{
+  "slug": "il-chicago",
+  "city": "Chicago",
+  "citySlug": "chicago",
+  "state": "IL",
+  "stateName": "Illinois",
+  "focus": "Chicago suburbs: Franklin Park (O’Hare), Villa Park, Glen Ellyn, St. Charles, Plainfield, East Dundee, Cary, Lakemoor, and Winthrop Harbor",
+  "lastUpdated": "2026-11-22",
+  "intro": "These Chicago listings were checked on operator-owned pages on November 22, 2026. Chicago is the third-largest U.S. metro and the start of Route 66, but there is no big RV depot downtown, so every pickup here is in the suburbs: Cruise America runs six depots from Franklin Park near O’Hare out to East Dundee, Lakemoor, St. Charles, Plainfield, and Winthrop Harbor; El Monte RV and Art’s RV share a Glen Ellyn address; Indie Campers is in Villa Park; and RV Rent N Go is in Cary. Winter hours are short and most depots close Sunday (El Monte is closed all weekend), so check the day before you plan a weekend trip. Hours and flags are copied only from those pages. This is a starting sample, not a metro-wide inventory, and it does not cache live RV availability. Peer-to-peer platforms such as RVshare and Outdoorsy show live inventory for a specific weekend. If a price appears, it is labeled as listed on a date.",
+  "listings": [
+    {
+      "name": "Cruise America — Chicago (O’Hare Area)",
+      "category": "rv-rental",
+      "area": "Franklin Park, on Mannheim Rd just south of O’Hare",
+      "address": "2732 Mannheim Rd, Franklin Park, IL 60131",
+      "phone": "(847) 451-9662",
+      "website": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-ohare-area",
+      "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-ohare-area",
+      "hours": {
+        "monday": "9:00 AM – 4:00 PM",
+        "tuesday": "9:00 AM – 4:00 PM",
+        "wednesday": "9:00 AM – 4:00 PM",
+        "thursday": "9:00 AM – 4:00 PM",
+        "friday": "9:00 AM – 4:00 PM",
+        "saturday": "9:00 AM – 1:00 PM",
+        "sunday": "Closed",
+        "notes": "These are the rental hours on the official Chicago (O’Hare Area) page, checked November 22, 2026. The page lists the depot as “The Truck Shop Inc.” Confirm hours before you arrive."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "The location page we checked did not say anything about one-way or pet rules for this depot, so those flags are left off. Ask about both when you book.",
+      "visitNotes": "The official page lists 21-, 25-, and 30-foot motorhomes (Compact, Standard, and Large) in this depot’s rental inventory. Open Saturday morning per the page; closed Sunday.",
+      "feeNotes": null,
+      "sources": [
+        {
+          "label": "Cruise America Chicago (O’Hare Area) location page",
+          "url": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-ohare-area"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "Cruise America — Chicago (East Dundee)",
+      "category": "rv-rental",
+      "area": "East Dundee, northwest suburbs near I-90",
+      "address": "895 Richardson Rd, East Dundee, IL 60118",
+      "phone": "(847) 426-3300",
+      "website": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-e-dundee",
+      "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-e-dundee",
+      "hours": {
+        "monday": "9:00 AM – 5:00 PM",
+        "tuesday": "9:00 AM – 5:00 PM",
+        "wednesday": "9:00 AM – 5:00 PM",
+        "thursday": "9:00 AM – 5:00 PM",
+        "friday": "9:00 AM – 5:00 PM",
+        "saturday": "9:00 AM – 1:00 PM",
+        "sunday": "Closed",
+        "notes": "These are the rental hours on the official Chicago (E Dundee) page, checked November 22, 2026. The page lists the depot as “Healy Auto Sales Inc..” Confirm hours before you arrive."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "The location page we checked did not say anything about one-way or pet rules for this depot, so those flags are left off. Ask about both when you book.",
+      "visitNotes": "The official page lists 21-, 25-, and 30-foot motorhomes (Compact, Standard, and Large) in this depot’s rental inventory. Open Saturday morning per the page; closed Sunday.",
+      "feeNotes": null,
+      "sources": [
+        {
+          "label": "Cruise America Chicago (E Dundee) location page",
+          "url": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-e-dundee"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "Cruise America — Chicago (Naperville / St. Charles)",
+      "category": "rv-rental",
+      "area": "St. Charles, in the western suburbs (the operator calls this depot Naperville)",
+      "address": "102 S 13th Ave, St. Charles, IL 60174",
+      "phone": "(630) 236-4775",
+      "website": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-naperville",
+      "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-naperville",
+      "hours": {
+        "monday": "9:00 AM – 4:30 PM",
+        "tuesday": "9:00 AM – 4:30 PM",
+        "wednesday": "9:00 AM – 4:30 PM",
+        "thursday": "9:00 AM – 4:30 PM",
+        "friday": "9:00 AM – 4:30 PM",
+        "saturday": "9:00 AM – 1:00 PM",
+        "sunday": "Closed",
+        "notes": "These are the rental hours on the official Chicago (Naperville) page, checked November 22, 2026. The page lists the depot as “A&G Rental and Repairs.” Confirm hours before you arrive."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "The location page we checked did not say anything about one-way or pet rules for this depot, so those flags are left off. Ask about both when you book.",
+      "visitNotes": "The official page lists 25- and 30-foot motorhomes (Standard and Large) in this depot’s rental inventory. Open Saturday morning per the page; closed Sunday.",
+      "feeNotes": null,
+      "sources": [
+        {
+          "label": "Cruise America Chicago (Naperville) location page",
+          "url": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-naperville"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "Cruise America — Chicago (Gurnee / Winthrop Harbor)",
+      "category": "rv-rental",
+      "area": "Winthrop Harbor, near the Wisconsin line (the operator calls this depot Gurnee)",
+      "address": "1101 Sheridan Rd, Winthrop Harbor, IL 60096",
+      "phone": "(847) 872-1111",
+      "website": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-gurnee",
+      "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-gurnee",
+      "hours": {
+        "monday": "8:00 AM – 5:00 PM",
+        "tuesday": "8:00 AM – 5:00 PM",
+        "wednesday": "8:00 AM – 5:00 PM",
+        "thursday": "8:00 AM – 5:00 PM",
+        "friday": "8:00 AM – 5:00 PM",
+        "saturday": "8:00 AM – 5:00 PM",
+        "sunday": "Closed",
+        "notes": "These are the rental hours on the official Chicago (Gurnee) page, checked November 22, 2026. The page lists the depot as “Wenzels Automotive Service.” Confirm hours before you arrive."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "The location page we checked did not say anything about one-way or pet rules for this depot, so those flags are left off. Ask about both when you book.",
+      "visitNotes": "The official page lists 25- and 30-foot motorhomes (Standard and Large) in this depot’s rental inventory. Saturday hours match weekdays per the page; closed Sunday.",
+      "feeNotes": null,
+      "sources": [
+        {
+          "label": "Cruise America Chicago (Gurnee) location page",
+          "url": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-gurnee"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "Cruise America — Chicago (Plainfield)",
+      "category": "rv-rental",
+      "area": "Plainfield, in the southwest suburbs",
+      "address": "23824 W Andrew Rd #105, Plainfield, IL 60585",
+      "phone": "(833) 812-0811",
+      "website": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-plainfield",
+      "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-plainfield",
+      "hours": {
+        "monday": "7:00 AM – 5:00 PM",
+        "tuesday": "7:00 AM – 5:00 PM",
+        "wednesday": "7:00 AM – 5:00 PM",
+        "thursday": "7:00 AM – 5:00 PM",
+        "friday": "7:00 AM – 5:00 PM",
+        "saturday": "10:00 AM – 1:00 PM",
+        "sunday": "Closed",
+        "notes": "These are the rental hours on the official Chicago (Plainfield) page, checked November 22, 2026. The page lists the depot as “Plainfield Motorcoach.” Confirm hours before you arrive."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "The location page we checked did not say anything about one-way or pet rules for this depot, so those flags are left off. Ask about both when you book.",
+      "visitNotes": "The official page lists 25- and 30-foot motorhomes (Standard and Large) in this depot’s rental inventory. Open Saturday morning per the page; closed Sunday.",
+      "feeNotes": null,
+      "sources": [
+        {
+          "label": "Cruise America Chicago (Plainfield) location page",
+          "url": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-plainfield"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "Cruise America — Chicago (Lakemoor)",
+      "category": "rv-rental",
+      "area": "Lakemoor, on IL-120 in McHenry County",
+      "address": "907 W IL Rte 120, Lakemoor, IL 60051",
+      "phone": "(815) 271-6500",
+      "website": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-lakemoor",
+      "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-lakemoor",
+      "hours": {
+        "monday": "7:30 AM – 5:30 PM",
+        "tuesday": "7:30 AM – 5:30 PM",
+        "wednesday": "7:30 AM – 5:30 PM",
+        "thursday": "7:30 AM – 5:30 PM",
+        "friday": "7:30 AM – 5:30 PM",
+        "saturday": "8:00 AM – 2:00 PM",
+        "sunday": "Closed",
+        "notes": "These are the rental hours on the official Chicago (Lakemoor) page, checked November 22, 2026. The page lists the depot as “State Road Auto Repair LLC.” Confirm hours before you arrive."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "The location page we checked did not say anything about one-way or pet rules for this depot, so those flags are left off. Ask about both when you book.",
+      "visitNotes": "The official page lists 25- and 30-foot motorhomes (Standard and Large) in this depot’s rental inventory. Open Saturday morning per the page; closed Sunday.",
+      "feeNotes": null,
+      "sources": [
+        {
+          "label": "Cruise America Chicago (Lakemoor) location page",
+          "url": "https://www.cruiseamerica.com/rv-rental-locations/illinois/chicago-lakemoor"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "El Monte RV — Chicago (Glen Ellyn)",
+      "category": "rv-rental",
+      "area": "Glen Ellyn, on North Ave (IL-64) in DuPage County; about 20 miles from O’Hare per the operator",
+      "address": "21W700 North Ave., Glen Ellyn, IL 60137",
+      "phone": "(630) 469-1936",
+      "website": "https://www.elmonterv.com/rv-rental-locations/chicago-illinois",
+      "bookingUrl": "https://www.elmonterv.com/rv-rental-locations/chicago-illinois",
+      "hours": {
+        "monday": "9:00 AM – 4:00 PM",
+        "tuesday": "9:00 AM – 4:00 PM",
+        "wednesday": "9:00 AM – 4:00 PM",
+        "thursday": "9:00 AM – 4:00 PM",
+        "friday": "9:00 AM – 4:00 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "notes": "Current season (Oct 1–Mar 31) per the official Chicago page: Mon–Fri 9:00 AM–4:00 PM, Saturday and Sunday closed. Apr 1–Sep 30: Mon–Fri 9:00 AM–5:00 PM, Saturday and Sunday closed. The page lists holiday closures, including Thanksgiving Day and Christmas Day. Pickup is listed as after 1:00 PM on weekdays and drop-off as before 10:00 AM; the page says after-hours pickups are not possible."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": false,
+        "petFriendly": false,
+        "delivery": false
+      },
+      "offersNotes": "El Monte RV’s official one-way page lists Chicago among its locations and suggests a Route 66 itinerary from Chicago to Los Angeles. It says one-way rentals are often possible but may carry a surcharge. Confirm the route and any fee when you book.",
+      "feeNotes": "The official Chicago page lists a $1,500 security deposit due at pickup and a $50 fee for each extra hour after your scheduled drop-off time, as listed on November 22, 2026.",
+      "visitNotes": "The depot shares its North Ave address and branch phone with Art’s RV Sales & Service, whose site lists the El Monte rental office separately. You pick pickup and drop-off time slots during online self check-in, which opens 30 days before arrival. The page says parking for your own car varies by location, so call ahead. Closed on weekends year-round, so this is not a Saturday-pickup option.",
+      "sources": [
+        {
+          "label": "El Monte RV Chicago location page",
+          "url": "https://www.elmonterv.com/rv-rental-locations/chicago-illinois"
+        },
+        {
+          "label": "El Monte RV one-way rentals page",
+          "url": "https://www.elmonterv.com/one-way-rv-rentals"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "Indie Campers — Chicago (Villa Park)",
+      "category": "rv-rental",
+      "area": "Villa Park, in the western suburbs (DuPage County)",
+      "address": "740 N Princeton Ave, Villa Park, IL 60181",
+      "phone": null,
+      "website": "https://indiecampers.com/discover/en-us/rent-an-rv/chicago",
+      "bookingUrl": "https://indiecampers.com/discover/en-us/rent-an-rv/chicago",
+      "hours": {
+        "monday": "8:00 AM – 6:00 PM",
+        "tuesday": "8:00 AM – 6:00 PM",
+        "wednesday": "8:00 AM – 6:00 PM",
+        "thursday": "8:00 AM – 6:00 PM",
+        "friday": "8:00 AM – 6:00 PM",
+        "saturday": "8:00 AM – 6:00 PM",
+        "sunday": "8:00 AM – 6:00 PM",
+        "notes": "Hours come from the structured data on the official Chicago page (Monday–Sunday, 08:00–18:00). Confirm pickup and return windows when you book."
+      },
+      "flags": {
+        "oneWay": true,
+        "weekendHours": true,
+        "petFriendly": true,
+        "delivery": false
+      },
+      "offersNotes": "The official Chicago page says one-way rentals are available from Chicago to all active Indie Campers U.S. pickup centers, naming Los Angeles, Nashville, Dallas, Denver, Seattle, and New York; availability and one-way pricing are confirmed at booking. Its FAQ says RVs are pet-friendly if you buy the extra cleaning service, with one pet per motorhome up to 30 kg. The page also advertises unlimited mileage.",
+      "feeNotes": null,
+      "visitNotes": "The page lists the Princeton Ave address as “Our Pick-up Center” for Indie Campers Chicago.",
+      "sources": [
+        {
+          "label": "Indie Campers Chicago page",
+          "url": "https://indiecampers.com/discover/en-us/rent-an-rv/chicago"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "Art’s RV Sales & Service — travel trailer rentals (Glen Ellyn)",
+      "category": "rv-rental",
+      "area": "Glen Ellyn, on North Ave (IL-64) in DuPage County",
+      "address": "21W700 North Ave., Glen Ellyn, IL 60137",
+      "phone": "630-469-1936",
+      "website": "https://www.artsrv.com/rv-rentals",
+      "bookingUrl": "https://www.artsrv.com/rv-rentals",
+      "hours": {
+        "monday": "9:00 AM – 6:00 PM",
+        "tuesday": "9:00 AM – 6:00 PM",
+        "wednesday": "9:00 AM – 6:00 PM",
+        "thursday": "9:00 AM – 6:00 PM",
+        "friday": "9:00 AM – 6:00 PM",
+        "saturday": "9:00 AM – 3:00 PM",
+        "sunday": "Closed",
+        "notes": "These are the Art’s RV store hours on the official site, checked November 22, 2026; the site does not publish separate pickup hours for its own trailer rentals. The same footer lists the El Monte rental office at this address as Mon–Fri 9:00 AM–5:00 PM, closed Saturday and Sunday."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": true,
+        "delivery": true
+      },
+      "offersNotes": "The rentals page offers travel trailers with a kitchen package included and says the company can deliver to and set up at your campsite (delivery and setup are quoted by phone). It lists a pet deposit for pets “with approval,” so ask before you book with a pet.",
+      "feeNotes": "The rentals page lists travel trailers at $440.00 for a weekend (2 nights) and $1,000.00 for a week (7 nights), a $39.95 linen package, a $250.00 security deposit, a $50.00 cleaning deposit, and a $50.00 pet deposit, all as listed on November 22, 2026.",
+      "visitNotes": "The page says renters and drivers must be at least 25 with a valid driver’s license and credit card. Art’s RV is a dealer that also hosts the El Monte RV Chicago depot at the same address.",
+      "sources": [
+        {
+          "label": "Art’s RV rentals page",
+          "url": "https://www.artsrv.com/rv-rentals"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "RV Rent N Go — Cary",
+      "category": "rv-rental",
+      "area": "Cary, in the northwest suburbs (McHenry County)",
+      "address": "931 Rawson Bridge Dr, Cary, IL 60013",
+      "phone": "1-773-332-3632",
+      "website": "https://rvrentngo.com/",
+      "bookingUrl": "https://rvrentngo.com/",
+      "hours": {
+        "monday": "7:00 AM – 7:00 PM",
+        "tuesday": "7:00 AM – 7:00 PM",
+        "wednesday": "7:00 AM – 7:00 PM",
+        "thursday": "7:00 AM – 7:00 PM",
+        "friday": "7:00 AM – 7:00 PM",
+        "saturday": "7:00 AM – 7:00 PM",
+        "sunday": "7:00 AM – 7:00 PM",
+        "notes": "The official site’s contact block lists “Monday-Sunday: 7am-7pm.” It does not say whether those are office or pickup hours, so confirm your pickup time."
+      },
+      "flags": {
+        "oneWay": false,
+        "weekendHours": true,
+        "petFriendly": false,
+        "delivery": true
+      },
+      "offersNotes": "The home page says its RVs are available for pickup or delivery. It lists Class A, B, and C motorhomes and travel trailers, and says some units are rented directly from owners. The pages we checked did not mention one-way trips or pets.",
+      "feeNotes": "The FAQ lists Coachnet 24/7 roadside assistance at $10/night and outdoor rug rental at $15/trip; its default insurance carries a $1,500 deductible per claim, all as listed on November 22, 2026.",
+      "visitNotes": "The home page says the company has 32+ RVs available in the Chicago area.",
+      "sources": [
+        {
+          "label": "RV Rent N Go home page",
+          "url": "https://rvrentngo.com/"
+        },
+        {
+          "label": "RV Rent N Go FAQ",
+          "url": "https://rvrentngo.com/faq"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    }
+  ]
+}
