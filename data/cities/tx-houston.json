@@ -1,0 +1,296 @@
+{
+ "slug": "tx-houston",
+ "city": "Houston",
+ "citySlug": "houston",
+ "state": "TX",
+ "stateName": "Texas",
+ "focus": "Greater Houston: West Houston (Alief), Kingwood and Lake Houston, Northwest Houston, Spring, Tomball, Katy, and Conroe",
+ "lastUpdated": "2026-11-23",
+ "intro": "These Houston listings were checked on operator-owned pages on November 23, 2026. Houston is the fifth-largest U.S. metro, but there is no big RV depot near downtown: Cruise America runs two depots, in West Houston on Alief Clodine Rd and in Kingwood, both closed Sunday. The rest of this page is local operators: TX RV Adventures in Spring (pet-friendly, by appointment seven days a week), AshLee RV in Conroe, American Dream Vacations in Northwest Houston, RV Station Katy, and two delivered travel-trailer services, RV Lite Camping and Sheridan Trailer Rentals in Tomball. Hours and flags are copied only from those pages; several local operators do not publish hours, so call first. This is a starting sample, not a metro-wide inventory, and it does not cache live RV availability. Peer-to-peer platforms such as RVshare and Outdoorsy show live inventory for a specific weekend. If a price appears, it is labeled as listed on a date.",
+ "listings": [
+  {
+   "name": "Cruise America — Houston (West)",
+   "category": "rv-rental",
+   "area": "West Houston, on Alief Clodine Rd",
+   "address": "13505 Alief Clodine Road, Houston, TX 77082",
+   "phone": "(281) 879-7745",
+   "website": "https://www.cruiseamerica.com/rv-rental-locations/texas/houston-west",
+   "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/texas/houston-west",
+   "hours": {
+    "monday": "8:00 AM – 6:00 PM",
+    "tuesday": "8:00 AM – 6:00 PM",
+    "wednesday": "8:00 AM – 6:00 PM",
+    "thursday": "8:00 AM – 6:00 PM",
+    "friday": "8:00 AM – 6:00 PM",
+    "saturday": "8:00 AM – 4:00 PM",
+    "sunday": "Closed",
+    "notes": "These are the rental hours on the official Houston (West) page, checked November 23, 2026. The page lists the depot as “West End Auto Works.” Confirm hours before you arrive."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The location page we checked did not say anything about one-way or pet rules for this depot, so those flags are left off. Ask about both when you book.",
+   "visitNotes": "The official page lists 25- and 30-foot motorhomes (Standard and Large) in this depot’s rental inventory. Open Saturday until 4:00 PM per the page; closed Sunday.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Cruise America Houston (West) location page",
+     "url": "https://www.cruiseamerica.com/rv-rental-locations/texas/houston-west"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Cruise America — Houston (Kingwood)",
+   "category": "rv-rental",
+   "area": "Kingwood, on Loop 494 in northeast Houston",
+   "address": "22532 Loop 494, Kingwood, TX 77339",
+   "phone": "(281) 359-4001",
+   "website": "https://www.cruiseamerica.com/rv-rental-locations/texas/houston-kingwood",
+   "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/texas/houston-kingwood",
+   "hours": {
+    "monday": "8:00 AM – 5:00 PM",
+    "tuesday": "8:00 AM – 5:00 PM",
+    "wednesday": "8:00 AM – 5:00 PM",
+    "thursday": "8:00 AM – 5:00 PM",
+    "friday": "8:00 AM – 5:00 PM",
+    "saturday": "8:00 AM – 1:00 PM",
+    "sunday": "Closed",
+    "notes": "These are the rental hours on the official Houston (Kingwood) page, checked November 23, 2026. The page lists the depot as “Eastex Rentals.” Confirm hours before you arrive."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The location page we checked did not say anything about one-way or pet rules for this depot, so those flags are left off. Ask about both when you book.",
+   "visitNotes": "The official page lists 25- and 30-foot motorhomes (Standard and Large) in this depot’s rental inventory. Open Saturday morning per the page; closed Sunday.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Cruise America Houston (Kingwood) location page",
+     "url": "https://www.cruiseamerica.com/rv-rental-locations/texas/houston-kingwood"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "TX RV Adventures — Spring lot",
+   "category": "rv-rental",
+   "area": "Spring, north Houston off Rhodes Rd",
+   "address": "21619 Rhodes Rd, Spring, TX 77388",
+   "phone": "346-289-0601",
+   "website": "https://www.txrvadventures.com/",
+   "bookingUrl": "https://www.txrvadventures.com/",
+   "hours": {
+    "monday": "By appointment, 9:30 AM – 5:00 PM",
+    "tuesday": "By appointment, 9:30 AM – 5:00 PM",
+    "wednesday": "By appointment, 9:30 AM – 5:00 PM",
+    "thursday": "By appointment, 9:30 AM – 5:00 PM",
+    "friday": "By appointment, 9:30 AM – 5:00 PM",
+    "saturday": "By appointment, 9:30 AM – 5:00 PM",
+    "sunday": "By appointment, 9:30 AM – 5:00 PM",
+    "notes": "The homepage says “RV Rentals Houston By Appointment Only — Available 7 days a week from 9:30 to 5:00pm.” The page’s structured data lists 9:30 AM–4:00 PM daily, so the two disagree; we copied the visible text. Confirm your pickup time."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": true,
+    "delivery": true
+   },
+   "offersNotes": "The homepage describes Class A and Class C motorhome rentals and says the rentals are pet-friendly (dogs only, cats excluded). The company’s Houston delivery guide describes delivered RV rentals. One-way rentals are not mentioned.",
+   "visitNotes": "You pick up at the Spring lot, and the homepage says you can leave your own vehicle there. Bedding, cookware, camp chairs, and Wi-Fi are listed as included.",
+   "feeNotes": "As listed on 2026-11-23: $100 pet fee, three dogs maximum (homepage); delivery $350 for the first 25 miles and $10 per mile after that, measured one way from the Spring lot (delivery guide).",
+   "sources": [
+    {
+     "label": "TX RV Adventures homepage",
+     "url": "https://www.txrvadventures.com/"
+    },
+    {
+     "label": "TX RV Adventures Houston delivery guide",
+     "url": "https://www.txrvadventures.com/guides/rv-rental-delivery-houston/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "AshLee RV Sales and Rentals — Conroe",
+   "category": "rv-rental",
+   "area": "Conroe, on TX-242 near The Woodlands (north of Houston)",
+   "address": "10667 TX-242, Conroe, TX 77385",
+   "phone": "1-832-474-2091",
+   "website": "https://ashleerv.com/",
+   "bookingUrl": "https://ashleerv.com/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The homepage does not publish pickup or office hours. Call to set a pickup time."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": true,
+    "delivery": true
+   },
+   "offersNotes": "The homepage lists Class A, Class B, small and large Class C motorhomes, and travel trailers, with “Pet Friendly Motorhomes” and “Pet Friendly Trailers” categories. It says delivery options are available and to ask about delivery and campsite setup for select destinations. One-way rentals are not mentioned.",
+   "visitNotes": "Family-owned per the homepage. Pickup includes a walkthrough of the RV at the Conroe location.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "AshLee RV homepage",
+     "url": "https://ashleerv.com/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "American Dream Vacations — NW Houston",
+   "category": "rv-rental",
+   "area": "Northwest Houston, on FM 529",
+   "address": "12942 FM 529, Houston, TX 77041",
+   "phone": "713-377-2346",
+   "website": "https://www.americandreamvacations.net/",
+   "bookingUrl": "https://www.americandreamvacations.net/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The operator’s homepage lists the NW Houston address and phone but does not publish hours for this location. Call before you go."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The homepage says the company rents motorhomes, travel trailers, and tent campers from its locations, with Class A, Class B, Class C, and trailer categories. Nothing on the page we checked confirms one-way, pet, or delivery terms for NW Houston.",
+   "visitNotes": "The same company lists other Texas stores in Kyle (Austin South), San Antonio, and Alpine.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "American Dream Vacations homepage (locations list)",
+     "url": "https://www.americandreamvacations.net/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "RV Station Katy — rentals",
+   "category": "rv-rental",
+   "area": "Katy, on the Katy Fwy (I-10) west of Houston",
+   "address": "27725 Katy Fwy, Katy, TX 77494",
+   "phone": "956-655-1101",
+   "website": "https://www.rvstationkaty.com/rentals",
+   "bookingUrl": "https://www.rvstationkaty.com/rentals",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The rentals page does not publish rental or office hours. The page lists a sales line (956-655-1101) and a service line (346-322-1437)."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The rentals page lists Class C motorhomes (32-foot Gulf Stream Conquest units that sleep 8–10) and a rental-information request form. One-way, pet, and delivery terms are not mentioned.",
+   "visitNotes": "This is an RV dealership with a small rental fleet; use the request form or call to check dates.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "RV Station Katy rentals page",
+     "url": "https://www.rvstationkaty.com/rentals"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "RV Lite Camping — travel trailer rental",
+   "category": "rv-rental",
+   "area": "Northeast Houston, Kingwood area (Dunnam Rd)",
+   "address": "4592 Dunnam Rd, Houston, TX 77345",
+   "phone": "346 299 2008",
+   "website": "https://rvlitecamping.com/",
+   "bookingUrl": "https://rvlitecamping.com/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The homepage does not publish office hours. It says customer support is available 24 hours during your trip."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": true
+   },
+   "offersNotes": "The homepage lists small and mid-size travel trailers (A-Liner, R-Pod, Rockwood, No Boundaries, Forester; sleeping 4–8) and says it delivers and picks up the trailers at campsites. One-way and pet rules are not mentioned.",
+   "visitNotes": "Several trailers are light enough to tow with many vehicles per the page. An orientation is given at delivery and pickup.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "RV Lite Camping homepage",
+     "url": "https://rvlitecamping.com/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Sheridan Trailer Rentals — Tomball (delivered camper)",
+   "category": "rv-rental",
+   "area": "Tomball, northwest of Houston (delivery only)",
+   "address": "14235 Alice Road, Tomball, TX 77377",
+   "phone": "(817) 587-1460",
+   "website": "https://sheridantrailerrentals.us/",
+   "bookingUrl": "https://sheridantrailerrentals.us/",
+   "hours": {
+    "monday": "8:00 AM – 8:00 PM",
+    "tuesday": "8:00 AM – 8:00 PM",
+    "wednesday": "8:00 AM – 8:00 PM",
+    "thursday": "8:00 AM – 8:00 PM",
+    "friday": "8:00 AM – 8:00 PM",
+    "saturday": "8:00 AM – 8:00 PM",
+    "sunday": "8:00 AM – 8:00 PM",
+    "notes": "The site says deliveries and pickups run 8:00 AM–8:00 PM, 7 days a week, at a time set with you, and that online booking is open 24/7. Call or text hours are also 8 AM–8 PM, 7 days a week."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": true
+   },
+   "offersNotes": "One travel trailer that sleeps 4–6, delivered, leveled, and hooked up at your campsite or driveway within 150 miles of Tomball. The site says no pets and no smoking or vaping.",
+   "visitNotes": "Family-owned per the site. You do not tow it yourself; the owner delivers and picks it up. Trips can be moved free up to 7 days before start.",
+   "feeNotes": "As listed on 2026-11-23: $150 per night ($175 on holiday nights), 10% off 4+ nights; delivery, setup, and pickup $250 within 60 miles of Tomball, $300 within 90 miles, and up to $375 out to 150 miles; $250 refundable deposit.",
+   "sources": [
+    {
+     "label": "Sheridan Trailer Rentals homepage",
+     "url": "https://sheridantrailerrentals.us/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  }
+ ]
+}
