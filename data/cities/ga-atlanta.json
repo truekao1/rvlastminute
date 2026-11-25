@@ -1,0 +1,320 @@
+{
+ "slug": "ga-atlanta",
+ "city": "Atlanta",
+ "citySlug": "atlanta",
+ "state": "GA",
+ "stateName": "Georgia",
+ "focus": "Metro Atlanta suburbs: Duluth and Lawrenceville (Gwinnett), Acworth (Cobb), Cumming (Forsyth), Morrow (Clayton), McDonough (Henry), and Newnan (Coweta)",
+ "lastUpdated": "2026-11-24",
+ "intro": "These Atlanta listings were checked on operator-owned pages on November 24, 2026. Atlanta is one of the largest U.S. metros, but no RV depot we found sits inside the city: every pickup point is in the suburbs. Cruise America’s only Atlanta depot page we could confirm is Atlanta (North) in Duluth, closed Sunday. Indie Campers picks up in Morrow, near the airport, seven days a week and is the one operator here that publishes one-way trips (to Nashville, Orlando, and Miami). The rest are local fleets: Scamper RV in McDonough and Cumming (open daily), Fireside RV Rental in McDonough, Lightnin RV in Lawrenceville (weekdays only for rentals), North Atlanta RV Rentals in Acworth, and White Oak in Newnan, which mostly delivers and sets up campers. Hours and flags are copied only from those pages; several operators do not publish hours, so call first. This is a starting sample, not a metro-wide inventory, and it does not cache live RV availability. Peer-to-peer platforms such as RVshare and Outdoorsy show live inventory for a specific weekend. If a price appears, it is labeled as listed on a date.",
+ "listings": [
+  {
+   "name": "Cruise America — Atlanta (North)",
+   "category": "rv-rental",
+   "area": "Duluth, on Buford Hwy in Gwinnett County northeast of Atlanta",
+   "address": "3446 Buford Hwy, Duluth, GA 30096",
+   "phone": "(770) 495-7186",
+   "website": "https://www.cruiseamerica.com/rv-rental-locations/georgia/atlanta-north",
+   "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/georgia/atlanta-north",
+   "hours": {
+    "monday": "9:00 AM – 4:00 PM",
+    "tuesday": "9:00 AM – 4:00 PM",
+    "wednesday": "9:00 AM – 4:00 PM",
+    "thursday": "9:00 AM – 4:00 PM",
+    "friday": "9:00 AM – 4:00 PM",
+    "saturday": "8:00 AM – 1:00 PM",
+    "sunday": "Closed",
+    "notes": "These are the rental hours on the official Atlanta (North) page, checked November 24, 2026. The page lists the depot as “Gwinnett Rental & Truck Repair.” Confirm hours before you arrive."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The location page we checked did not state one-way or pet rules for this depot in its text (a pre-approved one-way section loads separately), so those flags are left off. Ask about both when you book.",
+   "visitNotes": "The official page lists 21-foot Compact, 25-foot Standard, and 30-foot Large motorhomes in this depot’s rental inventory. Open Saturday morning per the page; closed Sunday. This was the only Atlanta-area depot page we could confirm on Cruise America’s site.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Cruise America Atlanta (North) location page",
+     "url": "https://www.cruiseamerica.com/rv-rental-locations/georgia/atlanta-north"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Indie Campers — Atlanta (Morrow)",
+   "category": "rv-rental",
+   "area": "Morrow, in Clayton County south of Atlanta, about 20 minutes from ATL per the operator",
+   "address": "1860 Joy Lake Rd, Morrow, GA 30260",
+   "phone": "+1 855-785-5096",
+   "website": "https://indiecampers.com/discover/en-us/rent-an-rv/atlanta",
+   "bookingUrl": "https://indiecampers.com/discover/en-us/rent-an-rv/atlanta",
+   "hours": {
+    "monday": "8:00 AM – 6:00 PM",
+    "tuesday": "8:00 AM – 6:00 PM",
+    "wednesday": "8:00 AM – 6:00 PM",
+    "thursday": "8:00 AM – 6:00 PM",
+    "friday": "8:00 AM – 6:00 PM",
+    "saturday": "8:00 AM – 6:00 PM",
+    "sunday": "8:00 AM – 6:00 PM",
+    "notes": "These are the opening hours published in the structured data on Indie Campers’ Atlanta page, checked November 24, 2026 (8:00 AM–6:00 PM, Monday–Sunday). The phone number is Indie Campers’ U.S. help line, not a depot line. Confirm your pickup slot when you book."
+   },
+   "flags": {
+    "oneWay": true,
+    "weekendHours": true,
+    "petFriendly": true,
+    "delivery": false
+   },
+   "offersNotes": "The Atlanta page says one-way rentals are offered within the Indie Campers network, linking Nashville, Orlando, and Miami, and that one-way fees vary by route and season. Its FAQ says pets are allowed if you buy the extra cleaning service, with one pet per motorhome up to 30 kg.",
+   "visitNotes": "The Atlanta page says bookings include unlimited mileage on selected RVs, 24/7 road assistance, and Basic Protection. The pickup center is listed at Joy Lake Rd in Morrow.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Indie Campers Atlanta page",
+     "url": "https://indiecampers.com/discover/en-us/rent-an-rv/atlanta"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "North Atlanta RV Rentals — Acworth",
+   "category": "rv-rental",
+   "area": "Acworth, on N Main St in Cobb County northwest of Atlanta",
+   "address": "5561 N Main St, Acworth, GA 30101",
+   "phone": "(770) 966-1551",
+   "website": "https://www.northatlantarvrentals.com/",
+   "bookingUrl": "https://reservations.northatlantarvrentals.com/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The site does not publish office or pickup hours. It mentions a 24/7 help hotline for renters during a trip. Call before you go."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": true,
+    "delivery": true
+   },
+   "offersNotes": "The home page lists Class A and Class C motorhomes, travel trailers, and long-term rentals, and says select rentals allow pets. Its “Drag and Drop” program delivers and picks up at your camping location of choice. One-way trips are not mentioned.",
+   "visitNotes": "The site says it serves the Atlanta area including Alpharetta, Kennesaw, Marietta, Roswell, and Sandy Springs, and offers a “White Glove Drop Off” service where staff empty the tanks, refuel, and clean the RV after your trip.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "North Atlanta RV Rentals home page",
+     "url": "https://www.northatlantarvrentals.com/"
+    },
+    {
+     "label": "North Atlanta RV Rentals Marietta page",
+     "url": "https://www.northatlantarvrentals.com/marietta-ga/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Scamper RV Rentals — McDonough",
+   "category": "rv-rental",
+   "area": "McDonough, off I-75 Exit 216 in Henry County, about 30 miles south of downtown Atlanta",
+   "address": "324 Industrial Blvd, McDonough, GA 30252",
+   "phone": "833-722-6737",
+   "website": "https://www.scamperrv.com/rv-rental-mcdonough-ga",
+   "bookingUrl": "https://www.scamperrv.com/rentals",
+   "hours": {
+    "monday": "9:00 AM – 5:00 PM",
+    "tuesday": "9:00 AM – 5:00 PM",
+    "wednesday": "9:00 AM – 5:00 PM",
+    "thursday": "9:00 AM – 5:00 PM",
+    "friday": "9:00 AM – 5:00 PM",
+    "saturday": "9:00 AM – 5:00 PM",
+    "sunday": "9:00 AM – 5:00 PM",
+    "notes": "The McDonough location page lists hours as daily 9am–5pm, with pickup at 3pm and return by noon, checked November 24, 2026. The location page gives ZIP 30252; the site footer shows McDonough, GA 30253."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The fleet page says delivery to campgrounds is offered only from the Cumming location; Atlanta airport drop-off is available from McDonough. The pages we checked did not state a pet policy or one-way trips.",
+   "visitNotes": "Minimum 3 nights, 100 miles per day included, and renters must be 25 or older, per the location page. The fleet page lists the travel trailer at McDonough.",
+   "feeNotes": "As listed on 2026-11-24: the fleet page shows the McDonough travel trailer (2024 Forest River Wolf Pup Limited 17JW) starting at $199/night; rates vary by unit and season.",
+   "sources": [
+    {
+     "label": "Scamper RV McDonough location page",
+     "url": "https://www.scamperrv.com/rv-rental-mcdonough-ga"
+    },
+    {
+     "label": "Scamper RV fleet page",
+     "url": "https://www.scamperrv.com/rentals"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Scamper RV Rentals — Cumming",
+   "category": "rv-rental",
+   "area": "Cumming, off GA-400 Exit 13 (Bethelview Rd) in Forsyth County, about 35 miles north of downtown Atlanta",
+   "address": "5410 Chattahoochee Ind Park, Cumming, GA 30041",
+   "phone": "833-722-6737",
+   "website": "https://www.scamperrv.com/rv-rental-cumming-ga",
+   "bookingUrl": "https://www.scamperrv.com/rentals",
+   "hours": {
+    "monday": "9:00 AM – 5:00 PM",
+    "tuesday": "9:00 AM – 5:00 PM",
+    "wednesday": "9:00 AM – 5:00 PM",
+    "thursday": "9:00 AM – 5:00 PM",
+    "friday": "9:00 AM – 5:00 PM",
+    "saturday": "9:00 AM – 5:00 PM",
+    "sunday": "9:00 AM – 5:00 PM",
+    "notes": "The Cumming location page lists hours as daily 9am–5pm, with pickup at 3pm and return by noon, checked November 24, 2026."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": true
+   },
+   "offersNotes": "The Cumming page says it is the only Scamper location that delivers, to local RV parks and campgrounds (approval required; contact for pricing). The pages we checked did not state a pet policy or one-way trips.",
+   "visitNotes": "The fleet page lists two Class C motorhomes based in Cumming (a 2023 Entegra Odyssey 27U and a 2023 Jayco Redhawk SE 26XD). Minimum 3 nights, 100 miles per day, age 25+.",
+   "feeNotes": "As listed on 2026-11-24: the fleet page shows Cumming Class C motorhomes starting at $305/night; rates vary by unit and season.",
+   "sources": [
+    {
+     "label": "Scamper RV Cumming location page",
+     "url": "https://www.scamperrv.com/rv-rental-cumming-ga"
+    },
+    {
+     "label": "Scamper RV fleet page",
+     "url": "https://www.scamperrv.com/rentals"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Fireside RV Rental — Atlanta",
+   "category": "rv-rental",
+   "area": "Based in McDonough (Henry County), serving metro Atlanta",
+   "address": "2055 Avalon Pkwy, McDonough, GA 30253",
+   "phone": "(404) 500-9070",
+   "website": "https://atlanta.firesidervrental.com/",
+   "bookingUrl": "https://atlanta.firesidervrental.com/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The Atlanta site does not publish office or pickup hours. It says every rental includes 24/7 roadside assistance. Call or text before you go."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": true,
+    "delivery": true
+   },
+   "offersNotes": "The site lists travel trailers, fifth wheels, Class A and Class C motorhomes, and Class B camper vans, with local pickup and return or delivery. Its FAQ says it delivers, levels, and hooks up RVs at campgrounds and RV parks across metro Atlanta, and that some RVs are pet-friendly (availability and fees vary by unit). One-way trips are not mentioned.",
+   "visitNotes": "Delivery destinations named on the site include Stone Mountain Park Campground, Sweetwater Creek State Park, Red Top Mountain State Park, Fort Yargo State Park, and McKinney Campground at Lake Allatoona.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Fireside RV Rental Atlanta page",
+     "url": "https://atlanta.firesidervrental.com/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Lightnin RV Rentals & Sales — Lawrenceville",
+   "category": "rv-rental",
+   "area": "Lawrenceville, on University Pkwy (GA-316) in Gwinnett County northeast of Atlanta",
+   "address": "2555 University Pkwy, Lawrenceville, GA 30043",
+   "phone": "(770) 963-9889",
+   "website": "https://www.lightninrv.com/rv-rental",
+   "bookingUrl": "https://www.lightninrv.com/rv-rentals-atlanta-georgia",
+   "hours": {
+    "monday": "9:00 AM – 5:00 PM",
+    "tuesday": "9:00 AM – 5:00 PM",
+    "wednesday": "9:00 AM – 5:00 PM",
+    "thursday": "9:00 AM – 5:00 PM",
+    "friday": "9:00 AM – 5:00 PM",
+    "saturday": "Closed",
+    "sunday": "Closed",
+    "notes": "The site lists sales and rentals hours as Monday–Friday 9:00am–5:00pm. Saturday is listed as sales only (10:00am–3:00pm) and Sunday as closed. The FAQ says departures are between 1:00 PM and 4:00 PM by appointment only and returns are due by 11:00 AM."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": true,
+    "delivery": true
+   },
+   "offersNotes": "The rental page says most renters pick up in Lawrenceville and that delivery within 50 miles is offered for an additional fee. The FAQ says a small, well-behaved dog is allowed for an additional fee; cats are not. One-way trips are not mentioned.",
+   "visitNotes": "The Atlanta rentals page lists travel trailers, Class A, B, and C motorhomes, and passenger vans. The FAQ says free parking is provided for one vehicle during your rental. Family-owned since 2003 per the site.",
+   "feeNotes": "As listed on 2026-11-24: the Atlanta rentals page shows a large travel trailer at $140 and a 25-foot Class C at $199 (“daily rate based on 7 night rental”). The FAQ lists reservation deposits of $1,500 (Class A), $1,000 (Class C), $500 (travel trailer), and $300 (pop-up).",
+   "sources": [
+    {
+     "label": "Lightnin RV rental page",
+     "url": "https://www.lightninrv.com/rv-rental"
+    },
+    {
+     "label": "Lightnin RV Atlanta rentals page",
+     "url": "https://www.lightninrv.com/rv-rentals-atlanta-georgia"
+    },
+    {
+     "label": "Lightnin RV rental FAQs",
+     "url": "https://www.lightninrv.com/rv-rental/faqs"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "White Oak Camper Rentals — Newnan (delivered camper)",
+   "category": "rv-rental",
+   "area": "Newnan, in Coweta County southwest of Atlanta (delivery-focused)",
+   "address": "390 Jackson St, Newnan, GA 30263",
+   "phone": "(678) 752-1810 (text)",
+   "website": "https://whiteoakrental.com/",
+   "bookingUrl": "https://whiteoakrental.com/book-now",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The site does not publish office hours. It asks you to text or email with dates, group size, and campground. Pickup and return times appear in each camper’s booking details."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": true
+   },
+   "offersNotes": "The FAQ says White Oak delivers, sets up, and picks up the camper; you reserve the campsite separately. Pickup is possible if your vehicle and towing equipment suit the camper. Featured campers include a Class A motorhome and a fifth wheel. Pets and one-way trips are not mentioned.",
+   "visitNotes": "The site markets race-weekend packages (Talladega, EchoPark Speedway) and Atlanta trips, and says current rates and policies are on each camper’s Wheelbase listing.",
+   "feeNotes": "As listed on 2026-11-24: the home page shows all-inclusive Talladega packages for spring and fall 2027 from $2,495.",
+   "sources": [
+    {
+     "label": "White Oak Camper Rentals home page",
+     "url": "https://whiteoakrental.com/"
+    },
+    {
+     "label": "White Oak rental FAQs",
+     "url": "https://whiteoakrental.com/faqs"
+    },
+    {
+     "label": "White Oak contact page",
+     "url": "https://whiteoakrental.com/contact"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  }
+ ]
+}
