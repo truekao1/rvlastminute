@@ -1,0 +1,316 @@
+{
+ "slug": "dc-washington",
+ "city": "Washington",
+ "citySlug": "washington",
+ "state": "DC",
+ "stateName": "District of Columbia",
+ "focus": "Washington, DC suburbs: Alexandria, Chantilly, and Warrenton in Northern Virginia; Germantown and Frederick in Maryland; plus farther pickups in Locust Grove and Rochelle, Virginia",
+ "lastUpdated": "2026-11-25",
+ "intro": "These Washington, DC listings were checked on operator-owned pages on November 25, 2026. No RV rental depot we found sits inside the District: every pickup point is in the Maryland or Virginia suburbs, and several are an hour or more out. Cruise America has three depot pages that serve the area: Germantown in Montgomery County, Maryland; its “Manassas” depot, which actually sits in Warrenton; and a Fredericksburg depot in Locust Grove. All three are closed Sunday. Closest to the city are Vander Outdoors, a campervan fleet in Alexandria near DCA, and B&W RV Rentals in Chantilly near Dulles, which also delivers and offers one-way trips. Ace RV Rentals markets to the DC area but picks up in Rochelle, Virginia. In Frederick, Maryland, Beckley’s RVs rents motorhomes and campers by appointment and AmeriGo rents a few Class C motorhomes alongside cars. Hours and flags are copied only from those pages; AmeriGo does not publish hours, so call first. This is a starting sample, not a metro-wide inventory, and it does not cache live RV availability. Peer-to-peer platforms such as RVshare and Outdoorsy show live inventory for a specific weekend, including privately owned RVs parked closer to the city. If a price appears, it is labeled as listed on a date.",
+ "listings": [
+  {
+   "name": "Cruise America — Germantown",
+   "category": "rv-rental",
+   "area": "Germantown, on Frederick Rd (MD-355) in Montgomery County, Maryland, northwest of Washington",
+   "address": "19590 Frederick Rd, Germantown, MD 20876",
+   "phone": "(301) 972-4207",
+   "website": "https://www.cruiseamerica.com/rv-rental-locations/maryland/germantown",
+   "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/maryland/germantown",
+   "hours": {
+    "monday": "8:00 AM – 5:00 PM",
+    "tuesday": "8:00 AM – 5:00 PM",
+    "wednesday": "8:00 AM – 5:00 PM",
+    "thursday": "8:00 AM – 5:00 PM",
+    "friday": "8:00 AM – 5:00 PM",
+    "saturday": "8:00 AM – 3:00 PM",
+    "sunday": "Closed",
+    "notes": "These are the rental hours on the official Germantown page, checked November 25, 2026. The page lists the depot as “Arrow Motors Group – RV Rental Center.” Confirm hours before you arrive."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The location page we checked did not state one-way or pet rules for this depot in its text, so those flags are left off. Ask about both when you book.",
+   "visitNotes": "The official page lists 25-foot Standard and 30-foot Large motorhomes in this depot’s rental inventory. Open Saturday until 3:00 PM per the page; closed Sunday.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Cruise America Germantown location page",
+     "url": "https://www.cruiseamerica.com/rv-rental-locations/maryland/germantown"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Cruise America — Manassas (Washington DC depot, Warrenton)",
+   "category": "rv-rental",
+   "area": "Warrenton (New Baltimore area), Fauquier County, Virginia, west of Manassas off US-29 — about 45 miles from downtown Washington",
+   "address": "6599 Merchant Pl, Warrenton, VA 20187",
+   "phone": "(703) 565-1875",
+   "website": "https://www.cruiseamerica.com/rv-rental-locations/virginia/manassas",
+   "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/virginia/manassas",
+   "hours": {
+    "monday": "8:30 AM – 5:00 PM",
+    "tuesday": "8:30 AM – 5:00 PM",
+    "wednesday": "8:30 AM – 5:00 PM",
+    "thursday": "8:30 AM – 5:00 PM",
+    "friday": "8:30 AM – 5:00 PM",
+    "saturday": "9:00 AM – 4:00 PM",
+    "sunday": "Closed",
+    "notes": "The official Manassas page publishes two rental seasons. Current (Oct 11 – Apr 4): Monday–Friday 8:30 AM–5:00 PM, Saturday 9:00 AM–4:00 PM, Sunday closed. Summer (Apr 6 – Oct 10): Monday–Saturday 8:00 AM–5:00 PM, Sunday closed. Checked November 25, 2026. The page names the depot “Cruise America – WDC, RV Sales and Rental Center” and gives a Warrenton street address."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The location page we checked did not state one-way or pet rules for this depot in its text, so those flags are left off. Ask about both when you book.",
+   "visitNotes": "The official page lists 21-foot Compact, 25-foot Standard, and 30-foot Large motorhomes in this depot’s rental inventory, and a separate RV sales desk at (703) 940-9836.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Cruise America Manassas location page",
+     "url": "https://www.cruiseamerica.com/rv-rental-locations/virginia/manassas"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Cruise America — Fredericksburg (Locust Grove)",
+   "category": "rv-rental",
+   "area": "Locust Grove, on Constitution Hwy (VA-20) in Orange County, Virginia, west of Fredericksburg — roughly 70 miles southwest of Washington",
+   "address": "32415 Constitution Hwy, Locust Grove, VA 22508",
+   "phone": "(540) 732-0353",
+   "website": "https://www.cruiseamerica.com/rv-rental-locations/virginia/fredericksburg",
+   "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/virginia/fredericksburg",
+   "hours": {
+    "monday": "8:00 AM – 5:00 PM",
+    "tuesday": "8:00 AM – 5:00 PM",
+    "wednesday": "8:00 AM – 5:00 PM",
+    "thursday": "8:00 AM – 5:00 PM",
+    "friday": "8:00 AM – 5:00 PM",
+    "saturday": "11:00 AM – 4:00 PM",
+    "sunday": "Closed",
+    "notes": "These are the rental hours on the official Fredericksburg page, checked November 25, 2026. The page lists the depot as “Endurance Automotive – RV Rental Center.” Confirm hours before you arrive."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The location page we checked did not state one-way or pet rules for this depot in its text, so those flags are left off. Ask about both when you book.",
+   "visitNotes": "The official page lists 25-foot Standard and 30-foot Large motorhomes in this depot’s rental inventory. It is the farthest pickup point on this page from the city; it can make sense for trips south toward Richmond or the Shenandoah.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Cruise America Fredericksburg location page",
+     "url": "https://www.cruiseamerica.com/rv-rental-locations/virginia/fredericksburg"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "B&W RV Rentals — Chantilly",
+   "category": "rv-rental",
+   "area": "Chantilly, Fairfax County, Virginia, near Washington Dulles International Airport (IAD)",
+   "address": "3900 Skyhawk Dr, Chantilly, VA 20151",
+   "phone": "(703) 594-1055",
+   "website": "https://bwrvrentals.com/",
+   "bookingUrl": "https://bwrvrentals.com/rv-rentals/",
+   "hours": {
+    "monday": "9:00 AM – 5:00 PM",
+    "tuesday": "9:00 AM – 5:00 PM",
+    "wednesday": "9:00 AM – 5:00 PM",
+    "thursday": "9:00 AM – 5:00 PM",
+    "friday": "9:00 AM – 5:00 PM",
+    "saturday": "9:00 AM – 2:00 PM",
+    "sunday": "Closed",
+    "notes": "The site lists hours of Monday–Friday 9:00am–5:00pm and Saturday 9:00am–2:00pm; Sunday is listed as “Closed: RV Drop Off Allowed.” The FAQ says motorhomes are due back by 3:00 PM and exact pickup times are set within 7 days of your pickup date. Checked November 25, 2026."
+   },
+   "flags": {
+    "oneWay": true,
+    "weekendHours": true,
+    "petFriendly": true,
+    "delivery": true
+   },
+   "offersNotes": "The FAQ says one-way rentals are available with special rates and a pickup fee, that pets are allowed in certain motorhomes with approval of the pet type, and that delivery is offered (the home page lists a per-mile delivery fee with free setup help). The site advertises free pickup and drop-off at Dulles International Airport (IAD).",
+   "visitNotes": "The home page lists 50 free miles per day, 4 free generator hours per day, virtual walkthrough and training videos, and 24/7 roadside support at (202) 856-0009. The FAQ elsewhere says 3 free generator hours, so confirm when you book. The fleet includes Jayco, Winnebago, Coachmen, and Thor motorhomes and tow-behinds.",
+   "feeNotes": "As listed on 2026-11-25: extra mileage $0.30 per mile (home page; the FAQ shows prepaid miles at $0.29), extra generator use $5.00 per hour, delivery $1.50 per mile, pet fee $99 cleaning plus $10 per day per pet, late return $50 per hour, and an optional $99 convenience package.",
+   "sources": [
+    {
+     "label": "B&W RV Rentals home page",
+     "url": "https://bwrvrentals.com/"
+    },
+    {
+     "label": "B&W RV Rentals FAQ",
+     "url": "https://bwrvrentals.com/frequently-asked-questions/"
+    },
+    {
+     "label": "B&W RV Rentals pickup locations",
+     "url": "https://bwrvrentals.com/pick-up-locations/"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Ace RV Rentals & Sales — Rochelle (rentals) / Herndon (sales)",
+   "category": "rv-rental",
+   "area": "Rental pickup in Rochelle, Madison County, Virginia (about 85 miles southwest of Washington); sales and service in Herndon near Dulles",
+   "address": "3800 Shelby Rd, Rochelle, VA 22738",
+   "phone": "571-367-9223",
+   "website": "https://www.acervrentals.com/",
+   "bookingUrl": "https://www.acervrentals.com/rv-rental-fleet",
+   "hours": {
+    "monday": "9:00 AM – 4:00 PM",
+    "tuesday": "9:00 AM – 4:00 PM",
+    "wednesday": "9:00 AM – 4:00 PM",
+    "thursday": "9:00 AM – 4:00 PM",
+    "friday": "9:00 AM – 4:00 PM",
+    "saturday": "9:00 AM – 1:00 PM",
+    "sunday": "Closed",
+    "notes": "The site lists hours of Mon–Fri 9:00am–4:00pm and Sat 9:00am–1:00pm; Sunday is listed as “Closed: RV Drop Off Available.” The FAQ says in-person walkaround pickups run 9:15 AM–4:00 PM on the first day, contactless pickup outside those hours can be scheduled, and RVs are due back by 3:00 PM. Checked November 25, 2026."
+   },
+   "flags": {
+    "oneWay": true,
+    "weekendHours": true,
+    "petFriendly": true,
+    "delivery": true
+   },
+   "offersNotes": "The FAQ says Ace offers delivery and pickup and one-way rentals (contact them for details), and that pets are allowed in motorhomes marked with a paw icon. The site lists Class A, Class B, and Class C motorhomes and travel trailers, and a pet-friendly fleet page.",
+   "visitNotes": "Rentals are picked up at the Rochelle address, not the Herndon sales and service lot (2875 Towerview Rd, Herndon, VA 20171). The FAQ lists 50 miles and 3 generator hours per day, a mandatory cleaning fee and dump fee, and a minimum renter age of 25.",
+   "feeNotes": "As listed on 2026-11-25: extra mileage 32 cents per mile, extra generator use $5.00 per hour, mandatory dump fee $75, pet fee $99 cleaning plus $10 per day per pet, delivery $2.50 per mile with a $250 minimum each way (local deliveries priced separately), and a $150 late fee for returns between 3 PM and 11 PM.",
+   "sources": [
+    {
+     "label": "Ace RV Rentals home page",
+     "url": "https://www.acervrentals.com/"
+    },
+    {
+     "label": "Ace RV Rentals FAQ",
+     "url": "https://www.acervrentals.com/faq"
+    },
+    {
+     "label": "Ace RV pet-friendly rentals page",
+     "url": "https://www.acervrentals.com/rv-rental-fleet-pet-friendly"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Beckley’s RVs — Frederick rentals",
+   "category": "rv-rental",
+   "area": "Frederick, Maryland, north of the city — about 50 miles northwest of Washington",
+   "address": "7633 Devilbiss Bridge Rd, Frederick, MD 21701",
+   "phone": "800-301-4787",
+   "website": "https://www.beckleysrvs.com/rentals/rv-rental",
+   "bookingUrl": "https://www.beckleysrvs.com/rentals/rv-rental",
+   "hours": {
+    "monday": "9:00 AM – 6:00 PM",
+    "tuesday": "9:00 AM – 6:00 PM",
+    "wednesday": "9:00 AM – 6:00 PM",
+    "thursday": "9:00 AM – 6:00 PM",
+    "friday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 4:00 PM",
+    "sunday": "Closed",
+    "notes": "The rentals page lists rental hours of Monday–Friday 9am–6pm and Saturday 9am–4pm, and the Frederick location block lists Sunday closed. Pickups run Monday through Saturday by appointment only, with no same-day rentals; weekend drop-off uses a key drop box with check-in the next business day. Checked November 25, 2026."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": true,
+    "delivery": false
+   },
+   "offersNotes": "The rentals page marks several Class C motorhomes, travel trailers, and pop-up campers as “pet friendly” (pet fees are listed on each unit page). It also rents cargo trailers. One-way trips and delivery are not mentioned.",
+   "visitNotes": "Motorhomes include 100 free miles per day, renters must be 25 or older, seasonal minimums apply, and the unit pages show a 3-night minimum. No smoking in any unit. Beckley’s sales and service are in Thurmont; the Frederick address is the rental pickup point.",
+   "feeNotes": "As listed on 2026-11-25: motorhomes from $248 per night or $1,562 per week, travel trailers from $138 per night, pop-up campers from $89 per night; extra miles $0.50 each; refundable security deposit $1,000 on motorhomes. Rates vary by unit and season.",
+   "sources": [
+    {
+     "label": "Beckley’s RVs rentals page",
+     "url": "https://www.beckleysrvs.com/rentals/rv-rental"
+    },
+    {
+     "label": "Beckley’s RVs Minnie Winnie 31K rental page",
+     "url": "https://www.beckleysrvs.com/rentals/winnebago-31k-class-c"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "AmeriGo Car & RV Rentals — Frederick",
+   "category": "rv-rental",
+   "area": "Frederick, on Buckeystown Pike (MD-85) south of the city — about 45 miles northwest of Washington; a second office is in Hagerstown",
+   "address": "5500 Buckeystown Pike, Frederick, MD 21703",
+   "phone": "301-964-1234",
+   "website": "https://www.amerigocarandrvrentals.com/",
+   "bookingUrl": "https://www.amerigocarandrvrentals.com/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The site does not publish office or pickup hours. It lists separate phone numbers for Frederick (301-964-1234) and Hagerstown (301-579-7777, 18434 Showalter Rd, Hagerstown, MD 21742). Call before you go."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": true,
+    "delivery": false
+   },
+   "offersNotes": "The home page lists Class C motorhomes (Thor Motor Coach Chateau and Four Winds) alongside its car and SUV rentals, and lists “Pet Friendly” among the RV features. One-way trips and delivery are not mentioned.",
+   "visitNotes": "This is primarily a car and SUV rental company with a small Class C motorhome fleet. RV features listed include an on-board generator, inside and outside showers, and a 40-gallon fresh-water tank.",
+   "feeNotes": "As listed on 2026-11-25: the home page shows $209 for a 2019 Thor Motor Coach Chateau and $229 each for 2018 and 2016 Thor Four Winds units; the page does not label the RV figures as per night, so confirm the rate when you book.",
+   "sources": [
+    {
+     "label": "AmeriGo Car & RV Rentals home page",
+     "url": "https://www.amerigocarandrvrentals.com/"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Vander Outdoors — Alexandria (campervans)",
+   "category": "rv-rental",
+   "area": "Alexandria, Virginia, on N Kings Hwy south of Old Town — about 20 minutes from Reagan National Airport (DCA) per the operator",
+   "address": "5801 N Kings Hwy, Alexandria, VA 22303",
+   "phone": "(571) 276-1870",
+   "website": "https://www.vanderoutdoors.com/",
+   "bookingUrl": "https://www.vanderoutdoors.com/campervan-rentals-washington-dc/",
+   "hours": {
+    "monday": "2:00 PM – 6:00 PM",
+    "tuesday": "2:00 PM – 6:00 PM",
+    "wednesday": "2:00 PM – 6:00 PM",
+    "thursday": "2:00 PM – 6:00 PM",
+    "friday": "2:00 PM – 6:00 PM",
+    "saturday": "2:00 PM – 6:00 PM",
+    "sunday": "2:00 PM – 6:00 PM",
+    "notes": "These are the opening hours in the structured data on Vander’s home page (daily 2:00–6:00 PM), checked November 25, 2026. The site says Vander has no physical storefront and offers early pickup, late return, and half-day options; pickups and handovers are scheduled. Confirm your handover time when you book."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": true,
+    "delivery": false
+   },
+   "offersNotes": "The home page lists pet-friendly rentals and early pickup, late return, and half-day options. The Washington page mentions airport pickup and Metro (Yellow Line) access. One-way trips and delivery are not mentioned.",
+   "visitNotes": "Veteran-owned, family-run campervan rental based in Alexandria since 2020, per the site. Vans listed include the DMV Cruiser, Cascade, and Appalachia. To see a van before booking, the site offers a 1-hour in-person demonstration that is credited toward a reservation made within 12 months.",
+   "feeNotes": "As listed on 2026-11-25: the site’s structured data says rentals start at $160 per day, and the in-person demonstration costs $50 (credited toward a booking within 12 months).",
+   "sources": [
+    {
+     "label": "Vander Outdoors Washington, DC campervan page",
+     "url": "https://www.vanderoutdoors.com/campervan-rentals-washington-dc/"
+    },
+    {
+     "label": "Vander Outdoors home page",
+     "url": "https://www.vanderoutdoors.com/"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  }
+ ]
+}
