@@ -1,0 +1,316 @@
+{
+ "slug": "pa-philadelphia",
+ "city": "Philadelphia",
+ "citySlug": "philadelphia",
+ "state": "PA",
+ "stateName": "Pennsylvania",
+ "focus": "Philadelphia suburbs and nearby pickups: Limerick, Exton, and Souderton in Pennsylvania; Mount Laurel, New Jersey; Coopersburg in the Lehigh Valley; and Lancaster County (Manheim, Lancaster, Ronks)",
+ "lastUpdated": "2026-11-26",
+ "intro": "These Philadelphia listings were checked on operator-owned pages on November 26, 2026. No RV rental depot we could verify sits inside the city. Cruise America’s old Philadelphia depot page now returns a 404, so the closest national-chain pickups are its Limerick depot on Ridge Pike and its “Trenton” depot, which is actually in Mount Laurel, New Jersey. Both are open weekdays only and closed Saturday and Sunday. For weekend pickups, look at the suburban dealers: Carefree RV in Exton (open Saturday morning, delivers, allows small dogs) and Fretz RV in Souderton (open Saturday until 4:00 PM, pet-friendly rentals). Allstar Coaches rents luxury Class A and Super C motorhomes from Coopersburg in the Lehigh Valley and offers delivery and one-way trips. The rest are an hour or more west in Lancaster County: Martin RV Rentals in Manheim, Fireside RV Rental in Lancaster (which delivers into Chester County), and Faith Adventure RV in Ronks. Hours and flags are copied only from those pages, and several publish no hours, so call first. This is a starting sample, not a metro-wide inventory, and it does not cache live RV availability. Peer-to-peer platforms such as RVshare and Outdoorsy show live inventory for a specific weekend, including privately owned RVs parked closer to the city. If a price appears, it is labeled as listed on a date.",
+ "listings": [
+  {
+   "name": "Cruise America — Philadelphia (Limerick)",
+   "category": "rv-rental",
+   "area": "Limerick, on W Ridge Pike near US-422 in Montgomery County, about 30 miles northwest of Center City",
+   "address": "444 W Ridge Pike, Limerick, PA 19468",
+   "phone": "(484) 369-8349",
+   "website": "https://www.cruiseamerica.com/rv-rental-locations/pennsylvania/philadelphia-limerick",
+   "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/pennsylvania/philadelphia-limerick",
+   "hours": {
+    "monday": "8:00 AM – 4:00 PM",
+    "tuesday": "8:00 AM – 4:00 PM",
+    "wednesday": "8:00 AM – 4:00 PM",
+    "thursday": "8:00 AM – 4:00 PM",
+    "friday": "8:00 AM – 4:00 PM",
+    "saturday": "Closed",
+    "sunday": "Closed",
+    "notes": "Rental hours on the official Limerick page, checked November 26, 2026. The page lists the depot as “Kellys Worldclass Automotive RV Rental Center.” Closed Saturday and Sunday, so weekend pickups need to happen by Friday afternoon."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The location page we checked did not state one-way or pet rules for this depot in its text, so those flags are left off. Ask about both when you book.",
+   "visitNotes": "The official page lists 30-foot Large, 25-foot Standard, and 21-foot Compact motorhomes in this depot’s rental inventory. Cruise America’s older Philadelphia depot page (Geiger Rd) now returns a 404, so Limerick is the operator’s Pennsylvania-side depot for Philadelphia.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Cruise America Philadelphia (Limerick) location page",
+     "url": "https://www.cruiseamerica.com/rv-rental-locations/pennsylvania/philadelphia-limerick"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "Cruise America — Trenton (Mt Laurel, NJ)",
+   "category": "rv-rental",
+   "area": "Mount Laurel, New Jersey, on Marne Highway in Burlington County, about 15 miles east of Center City across the Delaware",
+   "address": "2969 Marne Highway, Mt Laurel, NJ 08054",
+   "phone": "(856) 866-7422",
+   "website": "https://www.cruiseamerica.com/rv-rental-locations/new-jersey/trenton-mt-laurel",
+   "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/new-jersey/trenton-mt-laurel",
+   "hours": {
+    "monday": "9:00 AM – 4:00 PM",
+    "tuesday": "9:00 AM – 4:00 PM",
+    "wednesday": "9:00 AM – 4:00 PM",
+    "thursday": "9:00 AM – 4:00 PM",
+    "friday": "9:00 AM – 4:00 PM",
+    "saturday": "Closed",
+    "sunday": "Closed",
+    "notes": "Rental hours on the official Trenton (Mt Laurel) page, checked November 26, 2026. The page lists the depot as “Johnson’s Mt Laurel Auto Service Inc RV Rental Center.” Closed Saturday and Sunday."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The location page we checked did not state one-way or pet rules for this depot in its text, so those flags are left off. Ask about both when you book.",
+   "visitNotes": "Cruise America names this depot “Trenton,” but it sits in Mount Laurel, closer to Philadelphia than to Trenton. The page lists 25-foot Standard and 30-foot Large motorhomes in its inventory.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Cruise America Trenton (Mt Laurel) location page",
+     "url": "https://www.cruiseamerica.com/rv-rental-locations/new-jersey/trenton-mt-laurel"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "Carefree RV — Exton",
+   "category": "rv-rental",
+   "area": "Exton, on Welsh Pool Rd in Chester County, about 30 miles west of Center City",
+   "address": "251 Welsh Pool Rd, Exton, PA 19341",
+   "phone": "(610) 890-7007",
+   "website": "https://justgorv.com/",
+   "bookingUrl": "https://justgorv.com/",
+   "hours": {
+    "monday": "9:00 AM – 5:00 PM",
+    "tuesday": "9:00 AM – 5:00 PM",
+    "wednesday": "9:00 AM – 5:00 PM",
+    "thursday": "9:00 AM – 5:00 PM",
+    "friday": "9:00 AM – 5:00 PM",
+    "saturday": "9:00 AM – 1:00 PM",
+    "sunday": "Not published",
+    "notes": "Hours from the site footer: Monday–Friday 9am–5pm, Saturday 9am–1pm. Sunday is not listed."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": true,
+    "delivery": true
+   },
+   "offersNotes": "The FAQ says most RVs allow up to two small dogs (ask about the specific coach), and that Carefree offers door-to-door delivery, priced by location. One-way rentals are not mentioned.",
+   "visitNotes": "Motorhome rentals, long-term rentals, and event rentals (NASCAR, Penn State, concerts). The FAQ says you can leave your car on site while you travel.",
+   "feeNotes": "Pet fee $150, as listed on 2026-11-26. Delivery is priced by location and not published.",
+   "sources": [
+    {
+     "label": "Carefree RV home page",
+     "url": "https://justgorv.com/"
+    },
+    {
+     "label": "Carefree RV FAQ",
+     "url": "https://justgorv.com/faq/"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "Fretz RV — Souderton rentals",
+   "category": "rv-rental",
+   "area": "Souderton, on Bethlehem Pike (PA-309) in Montgomery County, about 30 miles north of Center City",
+   "address": "3479 Bethlehem Pike, Souderton, PA 18964",
+   "phone": "(215) 660-0089",
+   "website": "https://www.fretzrv.com/rv-rentals",
+   "bookingUrl": "https://www.fretzrv.com/rv-rentals",
+   "hours": {
+    "monday": "9:00 AM – 6:00 PM",
+    "tuesday": "9:00 AM – 6:00 PM",
+    "wednesday": "9:00 AM – 6:00 PM",
+    "thursday": "9:00 AM – 6:00 PM",
+    "friday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 4:00 PM",
+    "sunday": "Closed",
+    "notes": "Rental desk hours on the Fretz RV rentals page, checked November 26, 2026."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": true,
+    "delivery": false
+   },
+   "offersNotes": "The Fretz Pennsylvania rentals FAQ says it offers “pet friendly” rentals. Delivery and one-way rentals are not mentioned on the rental pages we checked.",
+   "visitNotes": "A dealership rental desk with late-model motorhomes and travel trailers. The FAQ says renters must be at least 25 and a down payment is required to reserve. Part of the rental cost can be credited toward a purchase.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Fretz RV rentals page (hours, address)",
+     "url": "https://www.fretzrv.com/rv-rentals"
+    },
+    {
+     "label": "Fretz RV Pennsylvania rentals FAQ",
+     "url": "https://www.fretzrv.com/pa-rv-rentals"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "Allstar Coaches — Pennsylvania RV Rental & Travel Center (Coopersburg)",
+   "category": "rv-rental",
+   "area": "Coopersburg, on PA-309 in the Lehigh Valley, between Allentown and Philadelphia (about 45 miles north of Center City)",
+   "address": "6860 PA-309, Coopersburg, PA 18036",
+   "phone": "866-838-4465",
+   "website": "https://allstarcoaches.com/pennsylvania-rv-rentals/",
+   "bookingUrl": "https://allstarcoaches.com/pennsylvania-rv-rentals/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "Allstar Coaches does not publish depot hours; call 866-838-4465. The page advertises 24/7 road assistance for renters, which is not office hours."
+   },
+   "flags": {
+    "oneWay": true,
+    "weekendHours": false,
+    "petFriendly": true,
+    "delivery": true
+   },
+   "offersNotes": "The Pennsylvania page lists pet-friendly rentals, flexible pickup and delivery options across PA, free local delivery, and airport pickup. The Allstar home page says it offers one-way RV rentals nationwide.",
+   "visitNotes": "Luxury Class A and Super C motorhomes, mostly 30 to 45 feet. The street address comes from Allstar Coaches’ own May 2025 opening announcement; its rentals page gives only a phone number, so confirm pickup details when you book.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Allstar Coaches Pennsylvania RV rentals page",
+     "url": "https://allstarcoaches.com/pennsylvania-rv-rentals/"
+    },
+    {
+     "label": "Allstar Coaches home page (one-way rentals)",
+     "url": "https://www.allstarcoaches.com/"
+    },
+    {
+     "label": "Allstar Coaches Pennsylvania center opening announcement (address)",
+     "url": "https://www.globenewswire.com/news-release/2025/05/21/3085671/0/en/allstar-coaches-rolls-into-the-northeast-with-new-state-of-the-art-pennsylvania-rv-rental-and-travel-center.html"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "Martin RV Rentals (RV Value Mart) — Manheim",
+   "category": "rv-rental",
+   "area": "Manheim, on Lebanon Rd (PA-72) in Lancaster County, about 75 miles west of Center City",
+   "address": "3152 Lebanon Rd, Manheim, PA 17545",
+   "phone": "(717) 664-0448",
+   "website": "https://www.rvvaluemart.com/rentals",
+   "bookingUrl": "https://www.rvvaluemart.com/rentals",
+   "hours": {
+    "monday": "9:00 AM – 4:00 PM",
+    "tuesday": "9:00 AM – 4:00 PM",
+    "wednesday": "9:00 AM – 4:00 PM",
+    "thursday": "9:00 AM – 4:00 PM",
+    "friday": "9:00 AM – 4:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Closed",
+    "notes": "Pick-up hours from the rental policies page: Monday–Friday 9am–4pm, Saturday 9am–12pm, no pick-ups on Sunday. Returns: Monday–Friday 9am–4pm, Saturday 9am–2pm; Sunday returns are allowed by locking the unit and leaving keys in the drop box."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": true,
+    "delivery": true
+   },
+   "offersNotes": "The rental policies page says pets are allowed for a fee (pets must be crated inside the RV) and that delivery with on-site setup can be arranged in advance. One-way rentals are not mentioned.",
+   "visitNotes": "The rentals page says it serves Harrisburg, Lancaster, Philadelphia, and surrounding areas, and that most rental models are about one year old. Minimum rental age 25. The page lists no general cleaning or tank dumping fee and free parking for up to two vehicles.",
+   "feeNotes": "As listed on 2026-11-26: pet fee $500.00; delivery within 30 miles $135.00 plus $135.00 pick-up, then $2.25 per additional mile up to 100 miles; credit-card hold $1,000 for motorhomes or $750 for travel trailers.",
+   "sources": [
+    {
+     "label": "RV Value Mart / Martin RV Rentals rentals page",
+     "url": "https://www.rvvaluemart.com/rentals"
+    },
+    {
+     "label": "RV Value Mart rental policies",
+     "url": "https://www.rvvaluemart.com/rental-policies"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "Fireside RV Rental — Lancaster",
+   "category": "rv-rental",
+   "area": "Lancaster, about 70 miles west of Philadelphia via US-30 and I-76 per the operator",
+   "address": "341 Ludwell Dr, Lancaster, PA 17601",
+   "phone": "(717) 429-6102",
+   "website": "https://lancaster.firesidervrental.com/",
+   "bookingUrl": "https://lancaster.firesidervrental.com/rv-rentals/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The Lancaster pages do not publish pickup or office hours; call ahead."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": true,
+    "delivery": true
+   },
+   "offersNotes": "The operator says it delivers throughout Lancaster, York, Lebanon, Berks, Chester, and Dauphin counties, or you can pick up locally. Its FAQ says some RVs are pet-friendly, with availability and fees varying by unit. One-way rentals are not mentioned.",
+   "visitNotes": "Travel trailers, fifth-wheels, and Class A, B, and C motorhomes. Delivery reaches Chester County campgrounds and events, the closest of its service counties to Philadelphia.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Fireside RV Rental Lancaster home page",
+     "url": "https://lancaster.firesidervrental.com/"
+    },
+    {
+     "label": "Fireside RV Rental Lancaster delivery page",
+     "url": "https://lancaster.firesidervrental.com/delivery/"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "Faith Adventure RV — Ronks (Lancaster County)",
+   "category": "rv-rental",
+   "area": "Ronks, east of Lancaster in Pennsylvania Dutch Country, about 60 miles west of Center City",
+   "address": "257 Mascot Rd, Ronks, PA 17572",
+   "phone": "717-778-4826",
+   "website": "https://www.faithadventurerv.com/rv-rental-lancaster",
+   "bookingUrl": "https://www.faithadventurerv.com/rv-rental-lancaster",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The rental page does not publish pickup or office hours. It lists a separate shop address at 995 Musser School Rd, Gordonville, PA 17529."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": true
+   },
+   "offersNotes": "The FAQ says no pets are allowed in its RVs. It says delivery to campsites is offered case by case. One-way rentals are not mentioned.",
+   "visitNotes": "Class A and Class C motorhomes and travel trailers. Ask whether pickup is at the Ronks or Gordonville address when you book.",
+   "feeNotes": "Starting prices as listed on 2026-11-26: Class A motorhome from $310.00 per day, Class C from $195.00 per day, travel trailer from $165.00 per day.",
+   "sources": [
+    {
+     "label": "Faith Adventure RV Lancaster rental page",
+     "url": "https://www.faithadventurerv.com/rv-rental-lancaster"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  }
+ ]
+}
