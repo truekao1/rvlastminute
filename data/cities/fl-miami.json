@@ -1,0 +1,300 @@
+{
+ "slug": "fl-miami",
+ "city": "Miami",
+ "citySlug": "miami",
+ "state": "FL",
+ "stateName": "Florida",
+ "focus": "Northern Miami-Dade (N Miami Ave, NW 27th Ave, NW 7th Ave, Opa-locka area), Allapattah near MIA, Princeton in south Miami-Dade, and Hollywood in Broward County",
+ "lastUpdated": "2026-11-27",
+ "intro": "These Miami listings were checked on operator-owned pages on November 27, 2026. The closest pickups to the city are in northern Miami-Dade: Cruise America’s Miami (North) depot on N Miami Ave, Indie Campers on NW 27th Ave, Americas Best RV near Opa-locka, and the single-motorhome Rent my RV Miami on NW 7th Ave. roadsurfer’s station is in Allapattah near Miami International Airport. South of the city, Cruise America’s Miami (South) depot and El Monte RV are both in Princeton, on the way to Homestead, the Everglades, and the Keys. FunRVs.com is in Hollywood, near Fort Lauderdale. For weekend pickups, the safest bets are Indie Campers (8:30 AM – 5:00 PM daily per its location data), FunRVs.com (9am–5pm seven days), and Cruise America South (Saturday until noon). Cruise America North and El Monte RV are closed on weekends, and El Monte’s standard pickups are after 1:00 PM on weekdays. Indie Campers, roadsurfer, El Monte RV, and FunRVs.com describe one-way rentals; Indie Campers and FunRVs.com say pets are allowed (FunRVs on some units), and FunRVs.com delivers. Hours and flags are copied only from those pages, and two operators publish no weekend hours, so call first. This is a starting sample, not a metro-wide inventory, and it does not cache live RV availability. Peer-to-peer platforms such as RVshare and Outdoorsy show live inventory for a specific weekend, including privately owned RVs parked closer to Miami Beach and Downtown. If a price appears, it is labeled as listed on a date.",
+ "listings": [
+  {
+   "name": "Cruise America — Miami (North)",
+   "category": "rv-rental",
+   "area": "North Miami Ave in the Little River / El Portal area, about 7 miles north of Downtown Miami",
+   "address": "8201 N. Miami Ave., Miami, FL 33150",
+   "phone": "(305) 756-3143",
+   "website": "https://www.cruiseamerica.com/rv-rental-locations/florida/miami-north",
+   "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/florida/miami-north",
+   "hours": {
+    "monday": "9:00 AM – 3:00 PM",
+    "tuesday": "9:00 AM – 3:00 PM",
+    "wednesday": "9:00 AM – 3:00 PM",
+    "thursday": "9:00 AM – 3:00 PM",
+    "friday": "9:00 AM – 3:00 PM",
+    "saturday": "Closed",
+    "sunday": "Closed",
+    "notes": "Rental hours on the official Miami (North) page, checked November 27, 2026. The page lists the depot as “Bueres Auto Service, Inc.” Closed Saturday and Sunday, and weekday rentals end at 3:00 PM, so weekend pickups need to happen by Friday afternoon."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The location page we checked did not state one-way or pet rules for this depot in its text, so those flags are left off. Ask about both when you book.",
+   "visitNotes": "The official page lists 30-foot Large, 25-foot Standard, and 21-foot Compact motorhomes in this depot’s rental inventory.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Cruise America Miami (North) location page",
+     "url": "https://www.cruiseamerica.com/rv-rental-locations/florida/miami-north"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Cruise America — Miami (South), Princeton",
+   "category": "rv-rental",
+   "area": "Princeton, on S Dixie Hwy (US-1) in south Miami-Dade, on the way to Homestead, the Everglades, and the Keys",
+   "address": "23501 S Dixie Hwy, Princeton, FL 33032",
+   "phone": "(305) 258-8333",
+   "website": "https://www.cruiseamerica.com/rv-rental-locations/florida/miami-south",
+   "bookingUrl": "https://www.cruiseamerica.com/rv-rental-locations/florida/miami-south",
+   "hours": {
+    "monday": "9:00 AM – 6:00 PM",
+    "tuesday": "9:00 AM – 6:00 PM",
+    "wednesday": "9:00 AM – 6:00 PM",
+    "thursday": "9:00 AM – 6:00 PM",
+    "friday": "9:00 AM – 6:00 PM",
+    "saturday": "9:00 AM – 12:00 PM",
+    "sunday": "Closed",
+    "notes": "Rental hours on the official Miami (South) page, checked November 27, 2026. The page lists the depot as “Maxx Motors.” Open Saturday morning until noon; closed Sunday."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": true,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The location page we checked did not state one-way or pet rules for this depot in its text, so those flags are left off. Ask about both when you book.",
+   "visitNotes": "The official page lists 30-foot Large, 25-foot Standard, and 21-foot Compact motorhomes in this depot’s rental inventory. This is the only national-chain depot in this sample with Saturday hours.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Cruise America Miami (South) location page",
+     "url": "https://www.cruiseamerica.com/rv-rental-locations/florida/miami-south"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "El Monte RV — Miami (Princeton)",
+   "category": "rv-rental",
+   "area": "Princeton, on SW 248th St in south Miami-Dade; the operator says it is 29.6 miles from Miami International Airport",
+   "address": "13700 SW 248th St., Princeton, FL 33032",
+   "phone": "+1 (305) 362-2777",
+   "website": "https://www.elmonterv.com/rv-rental-locations/miami-florida",
+   "bookingUrl": "https://www.elmonterv.com/rv-rental-locations/miami-florida",
+   "hours": {
+    "monday": "9:00 AM – 4:30 PM",
+    "tuesday": "9:00 AM – 4:30 PM",
+    "wednesday": "9:00 AM – 4:30 PM",
+    "thursday": "9:00 AM – 4:30 PM",
+    "friday": "9:00 AM – 4:30 PM",
+    "saturday": "Closed",
+    "sunday": "Closed",
+    "notes": "Hours on the official Miami page, checked November 27, 2026. The page publishes the same schedule for 1 October – 31 March and 1 April – 30 September: Monday–Friday 9:00 AM – 4:30 PM, Saturday and Sunday closed. Standard pickups are after 1:00 PM on weekdays (earlier pickup may be available for a fee) and drop-offs are before 10:00 AM. The page says after-hours pickups are not possible. Closed on major holidays listed on the page."
+   },
+   "flags": {
+    "oneWay": true,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "El Monte RV’s official one-way rentals page lists Miami among its locations and describes an East Coast route that ends in Miami. Confirm the route and any fee when you book. Pets and delivery are not stated on the Miami page.",
+   "visitNotes": "Branch direct number shown; the page also lists toll-free 888-337-2214 and reservations@elmonterv.com. The page says the main renter and all additional drivers must be present at pickup and that personal-vehicle parking varies by location, so ask in advance.",
+   "feeNotes": "The Miami page lists a $1,500 security deposit due at pickup and late-return fees of $50 per additional hour on top of the time-slot difference (as listed on 2026-11-27).",
+   "sources": [
+    {
+     "label": "El Monte RV Miami location page",
+     "url": "https://www.elmonterv.com/rv-rental-locations/miami-florida"
+    },
+    {
+     "label": "El Monte RV one-way rentals page",
+     "url": "https://www.elmonterv.com/one-way-rv-rentals"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Indie Campers — Miami",
+   "category": "rv-rental",
+   "area": "NW 27th Ave in northern Miami-Dade (33167), north of the Opa-locka / Miami Gardens line",
+   "address": "11491 NW 27th Ave, Miami, FL 33167",
+   "phone": "+1 (305) 890-8217",
+   "website": "https://indiecampers.com/discover/en-us/rent-an-rv/miami",
+   "bookingUrl": "https://indiecampers.com/discover/en-us/rent-an-rv/miami",
+   "hours": {
+    "monday": "8:30 AM – 5:00 PM",
+    "tuesday": "8:30 AM – 5:00 PM",
+    "wednesday": "8:30 AM – 5:00 PM",
+    "thursday": "8:30 AM – 5:00 PM",
+    "friday": "8:30 AM – 5:00 PM",
+    "saturday": "8:30 AM – 5:00 PM",
+    "sunday": "8:30 AM – 5:00 PM",
+    "notes": "Taken from the opening hours (08:30–17:00, Monday–Sunday) published in the structured location data on the operator’s Miami page, checked November 27, 2026."
+   },
+   "flags": {
+    "oneWay": true,
+    "weekendHours": true,
+    "petFriendly": true,
+    "delivery": false
+   },
+   "offersNotes": "The Miami page says one-way rentals are available from Miami to all active Indie Campers US pick-up centers (naming Orlando, Atlanta, Nashville, and New York) and that one-way fees vary by route and season. Its FAQ says the RVs are pet-friendly if you buy the extra cleaning service; for marketplace bookings, check the vehicle rules for the pet-friendly icon.",
+   "visitNotes": "The page lists Adventure, Active, and Comfort campervans and motorhomes, including 6-berth models with a shower and toilet.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Indie Campers Miami page",
+     "url": "https://indiecampers.com/discover/en-us/rent-an-rv/miami"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "roadsurfer — Miami",
+   "category": "rv-rental",
+   "area": "Allapattah, on NW 37th St near Miami International Airport",
+   "address": "2736 NW 37th St, Miami, FL 33142",
+   "phone": null,
+   "website": "https://roadsurfer.com/rv-rental/usa/florida/miami/",
+   "bookingUrl": "https://roadsurfer.com/rv-rental/usa/florida/miami/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The Miami station page does not publish opening hours; pickup and return times are chosen during booking."
+   },
+   "flags": {
+    "oneWay": true,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The Miami page says you can return the van at other roadsurfer stations (Denver, Las Vegas, Los Angeles, Phoenix, Salt Lake City, San Francisco, and Seattle) by choosing the drop-off city during booking. Pets and delivery are not mentioned.",
+   "visitNotes": "The page lists the Liberty Lodge Class B van (sleeps 4) and the Family Freedom Class C (Thor Four Winds 22E, sleeps 5). It says there is no long-term parking at the station, and that from MIA you can take the MIA Mover and a bus or a 5–10 minute taxi. The page’s directions text says “2736 NW 36th Street” while the address block says NW 37th St; we used the address block. It also warns that the batteries cannot run the AC for long without shore power.",
+   "feeNotes": "The page says the one-way rental fee starts at $349 (as listed on 2026-11-27).",
+   "sources": [
+    {
+     "label": "roadsurfer Miami station page",
+     "url": "https://roadsurfer.com/rv-rental/usa/florida/miami/"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "FunRVs.com — Hollywood",
+   "category": "rv-rental",
+   "area": "Hollywood (Broward County), near Sheridan St and I-95; the operator says it is two exits from Fort Lauderdale airport and about 20 miles from Miami International Airport",
+   "address": "2801 Greene St., Hollywood, FL",
+   "phone": "954-226-7377",
+   "website": "https://www.funrvs.com/",
+   "bookingUrl": "https://www.funrvs.com/",
+   "hours": {
+    "monday": "9:00 AM – 5:00 PM",
+    "tuesday": "9:00 AM – 5:00 PM",
+    "wednesday": "9:00 AM – 5:00 PM",
+    "thursday": "9:00 AM – 5:00 PM",
+    "friday": "9:00 AM – 5:00 PM",
+    "saturday": "9:00 AM – 5:00 PM",
+    "sunday": "9:00 AM – 5:00 PM",
+    "notes": "Business hours on the operator’s home page, checked November 27, 2026: Monday–Friday 9am–5pm and Saturday–Sunday 9am–5pm, with virtual assistance and online booking 24 hours. The page does not print a ZIP code."
+   },
+   "flags": {
+    "oneWay": true,
+    "weekendHours": true,
+    "petFriendly": true,
+    "delivery": true
+   },
+   "offersNotes": "The FAQ says units can be delivered, or picked up in the case of a one-way rental, anywhere in the United States, and that cats and dogs are permitted on some units for a fee. Confirm which units allow pets and the delivery quote when you book.",
+   "visitNotes": "The site lists travel trailers and Class C and Class A motorhomes and says qualified drivers can be provided for an additional fee. Strict non-smoking policy.",
+   "feeNotes": "The FAQ lists a $100 pet fee on units that allow cats and dogs (as listed on 2026-11-27).",
+   "sources": [
+    {
+     "label": "FunRVs.com home page and FAQ",
+     "url": "https://www.funrvs.com/"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Americas Best RV Rentals and Consignments",
+   "category": "rv-rental",
+   "area": "NW 19th Ave in northern Miami-Dade near Opa-locka (the operator’s page prints the street address without a city or ZIP)",
+   "address": "13791 Northwest 19th Avenue #1",
+   "phone": "(305) 681-4811",
+   "website": "https://www.americasbestrv.com/",
+   "bookingUrl": "https://www.americasbestrv.com/rentals/",
+   "hours": {
+    "monday": "10:00 AM – 5:00 PM",
+    "tuesday": "10:00 AM – 5:00 PM",
+    "wednesday": "10:00 AM – 5:00 PM",
+    "thursday": "10:00 AM – 5:00 PM",
+    "friday": "10:00 AM – 5:00 PM",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The home page lists “Mon - Fri / 10am - 5pm”; its FAQ says to call the office Monday through Friday, 8:30am to 5:00pm EST. Weekend hours are not published. The FAQ says normal pickups are after 12pm, with arrangement as early as 9am."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "The FAQ says pets are not allowed. One-way rentals and delivery are not mentioned on the pages we checked. Travel into Canada is permitted; Mexico is not.",
+   "visitNotes": "The FAQ says it rents Class A and Class C motorhomes, requires renters to be 25 with a valid license, has a 3-night minimum, and accepts your own auto insurance with a certificate naming Miami Luxury Coach, Inc. as additionally insured.",
+   "feeNotes": "The FAQ lists 100 free miles per day of rental and additional miles at $0.35–$0.55 per mile (as listed on 2026-11-27).",
+   "sources": [
+    {
+     "label": "Americas Best RV home page",
+     "url": "https://www.americasbestrv.com/"
+    },
+    {
+     "label": "Americas Best RV FAQs",
+     "url": "https://www.americasbestrv.com/faqs/"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Rent my RV Miami",
+   "category": "rv-rental",
+   "area": "NW 7th Ave in north Miami (33150), near the Little River / Pinewood area",
+   "address": "9600 Northwest 7th Avenue, Miami, Florida 33150, United States",
+   "phone": null,
+   "website": "https://rentmyrvmiami.com/",
+   "bookingUrl": "https://rentmyrvmiami.com/",
+   "hours": {
+    "monday": "9:00 AM – 5:00 PM",
+    "tuesday": "9:00 AM – 5:00 PM",
+    "wednesday": "9:00 AM – 5:00 PM",
+    "thursday": "9:00 AM – 5:00 PM",
+    "friday": "9:00 AM – 5:00 PM",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "Taken from the opening hours (09:00–17:00, Monday–Friday) in the structured data on the operator’s site, checked November 27, 2026. The weekend entry in that data is not a usable time range, so Saturday and Sunday are recorded as not published."
+   },
+   "flags": {
+    "oneWay": false,
+    "weekendHours": false,
+    "petFriendly": false,
+    "delivery": false
+   },
+   "offersNotes": "One-way, pet, and delivery terms are not stated on the operator’s site.",
+   "visitNotes": "A small owner-operated rental: the site describes a single motorhome (full kitchen, refrigerator and freezer, microwave, shower, rear queen bed with storage) and sends bookings to RVshare and Outdoorsy, so prices and rental terms are those on the marketplace listing. Contact by email (rentmyrvmiami@gmail.com) or the site’s form; no phone is published.",
+   "feeNotes": null,
+   "sources": [
+    {
+     "label": "Rent my RV Miami official site",
+     "url": "https://rentmyrvmiami.com/"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  }
+ ]
+}
